@@ -1,12 +1,12 @@
 # Summary
 
-A Universal Dependencies Corpus for Eastern Armenian originally developed for UD at the Brusov State University in Yerevan by the ArmTDP team.
+A Universal Dependencies Corpus for Eastern Armenian originally developed for UD at the Brusov State University in Yerevan.
 
 # Introduction
 
 The UD_Armenian-BSUT treebank is based on the Հայերենի ծառադարան dataset (version 2.0), a broad-coverage corpus of general Modern Standard Eastern Armenian covering numerous genres.
 
-The annotation scheme was developed in accordance with the UD guidelines. The original data was manually annotated by the ArmTDP team. The tokenization and POS-tagging process was carried out through alternating steps of automatic scripting and manual revision in the YerevaNN research lab (led by Hrant H. Khachatrian).
+The annotation scheme was developed in accordance with the UD guidelines. The original data was manually annotated by the ArmTDP team. The tokenization and POS-tagging process was carried out through alternating steps of automatic scripting and manual revision.
 
 # Acknowledgments
 
