@@ -32,7 +32,6 @@ UPOS: manual native
 XPOS: not available
 Features: manual native
 Relations: manual native
-Includes text: yes
 Contributors: Yavrumyan, Marat M.
 Contributing: here
 Contact: myavrum@ysu.am
