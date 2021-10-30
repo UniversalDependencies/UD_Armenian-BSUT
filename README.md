@@ -16,7 +16,7 @@ The treebank created by: Marat M. Yavrumyan, Rima R. Grigoryan, Anna S. Danielya
 
 ## References
 
-Yavrumyan, M.M., Danielyan, A.S., “Universal Dependencies and the Armenian Treebank.” Herald of the Social Sciences (2).231-244, 2020. (in Armenian)
+Yavrumyan M. M., Danielyan A. S., “Universal Dependencies and the Armenian Treebank.” Herald of the Social Sciences (2).231-244, 2020. (in Armenian)
 
 # Changelog
 
