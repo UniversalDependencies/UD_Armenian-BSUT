@@ -10,6 +10,8 @@ The annotation scheme was developed in accordance with the UD guidelines. The or
 
 # Acknowledgments
 
+This treebank is developed in the frame of the program "HayLingvoTech" excellency center implemented by the V. Brusov State University with the funding of the Competitive Innovation Fund of Armenia.
+
 The treebank created by: Marat M. Yavrumyan, Rima R. Grigoryan, Anna S. Danielyan, Setrag H. M. Hovsepian
 
 ## References
