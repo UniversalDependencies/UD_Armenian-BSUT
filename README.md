@@ -1,6 +1,6 @@
 # Summary
 
-A Universal Dependencies treebank for Eastern Armenian developed for UD originally at the Brusov State University in Yerevan.
+A Universal Dependencies treebank for Eastern Armenian developed for UD originally at the V. Brusov State University in Yerevan.
 
 # Introduction
 
