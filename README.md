@@ -44,7 +44,7 @@ UD_Armenian-BSUT data conforms to [CoNLL-U](http://universaldependencies.org/for
 Data available since: UD v2.9
 License: CC BY-SA 4.0
 Includes text: yes
-Genre: fiction government legal news nonfiction wiki
+Genre: blog fiction government legal news nonfiction wiki
 Lemmas: manual native
 UPOS: manual native
 XPOS: not available
