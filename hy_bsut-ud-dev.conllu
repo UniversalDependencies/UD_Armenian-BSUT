@@ -10110,7 +10110,7 @@
 28	չի	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	29	aux	_	Translit=či|LTranslit=em
 29	ընտրված	ընտրել	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Pass	19	advcl	_	Translit=ëntrvaç|LTranslit=ëntrel|SpaceAfter=No
 30	»	»	PUNCT	_	_	29	punct	_	Translit=»|LTranslit=»|SpaceAfter=No
-31	։	։	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.|SpaceAfter=No
+31	։	։	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
 
 # newpar id = legal-007D-0006
 # sent_id = legal-007D-00060D2L
