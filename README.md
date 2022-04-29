@@ -35,7 +35,8 @@ UD_Armenian-BSUT data conforms to [CoNLL-U](http://universaldependencies.org/for
 
 
 # Changelog
-
+* 2022-05-15 v2.10
+  * Fixed various individual annotation errors and inconsistencies, added new texts: 3K→41K.
 * 2021-11-15 v2.9
   * Initial release in Universal Dependencies.
 
@@ -44,7 +45,7 @@ UD_Armenian-BSUT data conforms to [CoNLL-U](http://universaldependencies.org/for
 Data available since: UD v2.9
 License: CC BY-SA 4.0
 Includes text: yes
-Genre: blog fiction government legal news nonfiction wiki
+Genre: blog fiction government legal news nonfiction web wiki
 Lemmas: manual native
 UPOS: manual native
 XPOS: not available
