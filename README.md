@@ -36,7 +36,7 @@ UD_Armenian-BSUT data conforms to [CoNLL-U](http://universaldependencies.org/for
 
 # Changelog
 * 2022-05-15 v2.10
-  * Fixed various individual annotation errors and inconsistencies, added new texts: 3K→41K.
+  * Fixed various individual annotation errors and inconsistencies, added new texts: 3K→42K.
 * 2021-11-15 v2.9
   * Initial release in Universal Dependencies.
 
