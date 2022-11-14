@@ -1,10 +1,10 @@
 Running the following version of UD tools:
-commit ba6fbf413cb14afa25145b931c79fb60ef9456e2
-Author: www-data (nschneid) <nschneid@github.com>
-Date:   Wed May 11 05:10:30 2022 +0200
+commit 13e6b709a8bc643c3f902800321a7beda46feb8d
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Sun Nov 13 22:03:41 2022 +0100
 Evaluating the following revision of UD_Armenian-BSUT:
-commit a64d7f0a042e7ae8fe3c87d293ce753f499a9665
-Merge: e4bc86a 043a890
+commit 3c01f8ff504a5b9273eeb02ef39e50201e85ab91
+Merge: 62d2fc4 ff1889d
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 41805 of 41805 words (nodes).
 Size: min(0, log((N/1000)**2)) = 7.46603189920404.
@@ -25,12 +25,26 @@ Udapi: found 114 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 41805 words.
 Genres: found 7 out of 17 known.
 validate.py --lang hy --max-err=10 UD_Armenian-BSUT/hy_bsut-ud-dev.conllu
-*** PASSED ***
+[Line 3185 Sent legal-0081-000B0EFA Node 19]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [1, 21]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+Syntax errors: 1
+*** FAILED *** with 1 errors
+Exit code: 1
 validate.py --lang hy --max-err=10 UD_Armenian-BSUT/hy_bsut-ud-test.conllu
-*** PASSED ***
+[Line 1986 Sent blog-008C-00090EVJ Node 13]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [12, 18]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 10345 Sent news-007G-00070D4T Node 3]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [1, 11]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+Syntax errors: 2
+*** FAILED *** with 2 errors
+Exit code: 1
 validate.py --lang hy --max-err=10 UD_Armenian-BSUT/hy_bsut-ud-train.conllu
-*** PASSED ***
-Validity: 1
+[Line 5433 Sent legal-0083-00130EJC Node 38]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [37, 40]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 16456 Sent nonfiction-007L-00070DBT Node 10]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [3, 13]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 16930 Sent nonfiction-007L-000D0DCF Node 11]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [8, 15]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 23413 Sent news-007K-001E0D9A Node 2]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [1, 8]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 26525 Sent news-0074-00010CSK Node 21]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [14, 20]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+Syntax errors: 5
+*** FAILED *** with 5 errors
+Exit code: 1
+Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=1) = 0.0769230769230769
 (weight=0.0769230769230769) * (score{genres}=0.411764705882353) = 0.0316742081447964
 (weight=0.0769230769230769) * (score{lemmas}=1) = 0.0769230769230769
@@ -39,6 +53,6 @@ Validity: 1
 (weight=0.0769230769230769) * (score{tags}=1) = 0.0769230769230769
 (weight=0.307692307692308) * (score{udapi}=0.972730534625045) = 0.299301702961552
 (weight=0.0769230769230769) * (score{udeprels}=0.945945945945946) = 0.0727650727650728
-(TOTAL score=0.824358781116634) * (availability=1) * (validity=1) = 0.824358781116634
-STARS = 4
-UD_Armenian-BSUT	0.824358781116634	4
+(TOTAL score=0.824358781116634) * (availability=1) * (validity=0.01) = 0.00824358781116634
+STARS = 0
+UD_Armenian-BSUT	0.00824358781116634	0
