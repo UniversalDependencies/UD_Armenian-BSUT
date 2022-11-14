@@ -35,6 +35,8 @@ UD_Armenian-BSUT data conforms to [CoNLL-U](http://universaldependencies.org/for
 
 
 # Changelog
+* 2022-11-15 v2.11
+  * Fixed various individual annotation errors and inconsistencies, added new texts: 42K→47K.
 * 2022-05-15 v2.10
   * Fixed various individual annotation errors and inconsistencies, added new texts: 3K→42K.
 * 2021-11-15 v2.9
@@ -53,7 +55,7 @@ Features: manual native
 Relations: manual native
 Contributors: Yavrumyan, Marat M.
 Contributing: here
-Contact: myavrum@ysu.am
+Contact: marat.yavrumyan@plus.ac.at
 ===============================================================================
 Documentation contributors: Yavrumyan, Marat M.; Danielyan, Anna S.
 https://github.com/armtreebank
