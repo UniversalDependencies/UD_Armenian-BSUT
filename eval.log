@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 13e6b709a8bc643c3f902800321a7beda46feb8d
+commit 04abe686385f14a9a6f68784bd723a6b60ded594
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun Nov 13 22:03:41 2022 +0100
+Date:   Tue May 9 00:14:39 2023 +0200
 Evaluating the following revision of UD_Armenian-BSUT:
-commit 3c01f8ff504a5b9273eeb02ef39e50201e85ab91
-Merge: 62d2fc4 ff1889d
+commit d65c4d46bd80788f943c57665ae3935b75e9c3c4
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Mon Nov 14 10:03:57 2022 +0100
 Size: counted 41805 of 41805 words (nodes).
 Size: min(0, log((N/1000)**2)) = 7.46603189920404.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -24,23 +24,23 @@ Udapi:
 Udapi: found 114 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 41805 words.
 Genres: found 7 out of 17 known.
-validate.py --lang hy --max-err=10 UD_Armenian-BSUT/hy_bsut-ud-dev.conllu
-[Line 3185 Sent legal-0081-000B0EFA Node 19]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [1, 21]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+/net/work/people/zeman/unidep/tools/validate.py --lang hy --max-err=10 UD_Armenian-BSUT/hy_bsut-ud-dev.conllu
+[Line 3185 Sent legal-0081-000B0EFA Node 19]: [L3 Syntax too-many-subjects] Multiple subjects [1, 21] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
 Syntax errors: 1
 *** FAILED *** with 1 errors
 Exit code: 1
-validate.py --lang hy --max-err=10 UD_Armenian-BSUT/hy_bsut-ud-test.conllu
-[Line 1986 Sent blog-008C-00090EVJ Node 13]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [12, 18]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 10345 Sent news-007G-00070D4T Node 3]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [1, 11]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+/net/work/people/zeman/unidep/tools/validate.py --lang hy --max-err=10 UD_Armenian-BSUT/hy_bsut-ud-test.conllu
+[Line 1986 Sent blog-008C-00090EVJ Node 13]: [L3 Syntax too-many-subjects] Multiple subjects [12, 18] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 10345 Sent news-007G-00070D4T Node 3]: [L3 Syntax too-many-subjects] Multiple subjects [1, 11] not subtyped as ':outer'.
 Syntax errors: 2
 *** FAILED *** with 2 errors
 Exit code: 1
-validate.py --lang hy --max-err=10 UD_Armenian-BSUT/hy_bsut-ud-train.conllu
-[Line 5433 Sent legal-0083-00130EJC Node 38]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [37, 40]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 16456 Sent nonfiction-007L-00070DBT Node 10]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [3, 13]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 16930 Sent nonfiction-007L-000D0DCF Node 11]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [8, 15]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 23413 Sent news-007K-001E0D9A Node 2]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [1, 8]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 26525 Sent news-0074-00010CSK Node 21]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [14, 20]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+/net/work/people/zeman/unidep/tools/validate.py --lang hy --max-err=10 UD_Armenian-BSUT/hy_bsut-ud-train.conllu
+[Line 5433 Sent legal-0083-00130EJC Node 38]: [L3 Syntax too-many-subjects] Multiple subjects [37, 40] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 16456 Sent nonfiction-007L-00070DBT Node 10]: [L3 Syntax too-many-subjects] Multiple subjects [3, 13] not subtyped as ':outer'.
+[Line 16930 Sent nonfiction-007L-000D0DCF Node 11]: [L3 Syntax too-many-subjects] Multiple subjects [8, 15] not subtyped as ':outer'.
+[Line 23413 Sent news-007K-001E0D9A Node 2]: [L3 Syntax too-many-subjects] Multiple subjects [1, 8] not subtyped as ':outer'.
+[Line 26525 Sent news-0074-00010CSK Node 21]: [L3 Syntax too-many-subjects] Multiple subjects [14, 20] not subtyped as ':outer'.
 Syntax errors: 5
 *** FAILED *** with 5 errors
 Exit code: 1
