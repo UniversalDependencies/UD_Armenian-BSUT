@@ -5429,7 +5429,7 @@
 34	բաժնետերերի	բաժնետեր	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Plur	36	nmod:poss	_	Translit=bažnetereri|LTranslit=bažneter
 35	ընդհանուր	ընդհանուր	ADJ	_	Degree=Pos	36	amod	_	Translit=ëndhanowr|LTranslit=ëndhanowr
 36	ժողովի	ժողով	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	37	nmod:poss	_	Translit=žoġovi|LTranslit=žoġov
-37	իրավասություններն	իրավասություն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Plur	38	nsubj	_	Translit=iravasowt’yownnern|LTranslit=iravasowt’yown
+37	իրավասություններն	իրավասություն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Plur	38	obj	_	Translit=iravasowt’yownnern|LTranslit=iravasowt’yown
 38	իրականացնում	իրականացնել	VERB	_	Aspect=Imp|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=irakanac’nowm|LTranslit=irakanac’nel
 39	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	38	aux	_	Translit=ē|LTranslit=em
 40	Խորհուրդը	խորհուրդ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	38	nsubj	_	Translit=Xorhowrdë|LTranslit=xorhowrd
@@ -16446,7 +16446,7 @@
 # translit = Ays xosk’i iravac’iowt’yownë (ašxarhis bolor azgeric’ aveli) hastatowm ē mer azgë, ir ahṙeli patmowt’yamb.
 1	Այս	այս	DET	_	Deixis=Prox|PronType=Dem	2	det	_	Translit=Ays|LTranslit=ays
 2	խոսքի	խոսք	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	3	nmod:poss	_	Translit=xosk’i|LTranslit=xosk’
-3	իրավացիությունը	իրավացիություն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Coll	10	nsubj	_	Translit=iravac’iowt’yownë|LTranslit=iravac’iowt’yown
+3	իրավացիությունը	իրավացիություն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Coll	10	obj	_	Translit=iravac’iowt’yownë|LTranslit=iravac’iowt’yown
 4	(	(	PUNCT	_	_	8	punct	_	Translit=(|LTranslit=(|SpaceAfter=No
 5	աշխարհիս	աշխարհ	NOUN	_	Animacy=Nhum|Case=Dat|Deixis[psor]=Prox|Number=Sing	7	nmod:poss	_	Translit=ašxarhis|LTranslit=ašxarh
 6	բոլոր	բոլոր	DET	_	PronType=Tot	7	det	_	Translit=bolor|LTranslit=bolor
@@ -16932,7 +16932,7 @@
 12	ոչ	ոչ	CCONJ	_	_	15	cc	_	Translit=oč|LTranslit=oč
 13	՛	՛	PUNCT	_	_	12	punct	_	Translit=՛|LTranslit=՛
 14	մեր	մենք	DET	_	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	15	det:poss	_	Translit=mer|LTranslit=menk’
-15	Այսինչը	այսինչ	PRON	_	Case=Nom|Definite=Def|Deixis=Prox|Number=Sing|PronType=Ind	11	nsubj	_	Translit=Aysinčë|LTranslit=aysinč|SpaceAfter=No
+15	Այսինչը	այսինչ	PRON	_	Case=Nom|Definite=Def|Deixis=Prox|Number=Sing|PronType=Ind	11	obj	_	Translit=Aysinčë|LTranslit=aysinč|SpaceAfter=No
 16	,	,	PUNCT	_	_	19	punct	_	Translit=,|LTranslit=,
 17-18	ո՛չ	_	_	_	_	_	_	_	Translit=o՛č
 17	ոչ	ոչ	CCONJ	_	_	19	cc	_	Translit=oč|LTranslit=oč
@@ -23409,7 +23409,7 @@
 # sent_id = news-007K-001E0D9A
 # text = Փառատոնը կբացի «Նեապոլը շղարշի տակ» կինոնկարը:
 # translit = P’aṙatonë kbac’i «Neapolë šġarši tak» kinonkarë.
-1	Փառատոնը	փառատոն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	2	nsubj	_	Translit=P’aṙatonë|LTranslit=p’aṙaton
+1	Փառատոնը	փառատոն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	2	obj	_	Translit=P’aṙatonë|LTranslit=p’aṙaton
 2	կբացի	բացել	VERB	_	Aspect=Prosp|Mood=Cnd|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=kbac’i|LTranslit=bac’el
 3	«	«	PUNCT	_	_	4	punct	_	Translit=«|LTranslit=«|SpaceAfter=No
 4	Նեապոլը	Նեապոլ	PROPN	_	Animacy=Nhum|Case=Nom|Definite=Def|NameType=Geo|Number=Sing	8	nmod	_	Translit=Neapolë|LTranslit=Neapol
@@ -26521,7 +26521,7 @@
 17	ինչու	ինչու	ADV	_	PronType=Int	21	advmod	_	Translit=inčow|LTranslit=inčow
 18	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	21	aux	_	Translit=ē|LTranslit=em
 19	բաժնետոմսերի	բաժնետոմս	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Plur	20	nmod:poss	_	Translit=bažnetomseri|LTranslit=bažnetoms
-20	կառավարումը	կառավարում	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Coll	21	nsubj:pass	_	Translit=kaṙavarowmë|LTranslit=kaṙavarowm
+20	կառավարումը	կառավարում	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Coll	14	conj	_	Translit=kaṙavarowmë|LTranslit=kaṙavarowm
 21	փոխանցվում	փոխանցել	VERB	_	Aspect=Imp|Subcat=Intr|VerbForm=Part|Voice=Pass	7	csubj	_	Translit=p’oxanc’vowm|LTranslit=p’oxanc’el
 22	վարչապետի	վարչապետ	NOUN	_	Animacy=Hum|Case=Dat|Definite=Ind|Number=Sing	23	nmod:poss	_	Translit=varčapeti|LTranslit=varčapet
 23	գրասենյակին	գրասենյակ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Sing	21	iobj	_	Translit=grasenyakin|LTranslit=grasenyak|SpaceAfter=No

@@ -3164,7 +3164,7 @@
 # sent_id = legal-0081-000B0EFA
 # text = Հայեցակարգերը, ռազմավարությունները, միջոցառումների ծրագրերը, որոնք վերաբերում են մեկից ավելի պետական մարմինների, որպես կանոն, ընդունում է կառավարությունը՝ որպես ներքին իրավական ակտեր:
 # translit = Hayec’akargerë, ṙazmavarowt’yownnerë, miǰoc’aṙowmneri çragrerë, oronk’ veraberowm en mekic’ aveli petakan marminneri, orpes kanon, ëndownowm ē kaṙavarowt’yownë, orpes nerk’in iravakan akter.
-1	Հայեցակարգերը	հայեցակարգ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Plur	19	nsubj	_	Translit=Hayec’akargerë|LTranslit=hayec’akarg|SpaceAfter=No
+1	Հայեցակարգերը	հայեցակարգ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Plur	19	obj	_	Translit=Hayec’akargerë|LTranslit=hayec’akarg|SpaceAfter=No
 2	,	,	PUNCT	_	_	3	punct	_	Translit=,|LTranslit=,
 3	ռազմավարությունները	ռազմավարություն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Plur	1	conj	_	Translit=ṙazmavarowt’yownnerë|LTranslit=ṙazmavarowt’yown|SpaceAfter=No
 4	,	,	PUNCT	_	_	6	punct	_	Translit=,|LTranslit=,
