@@ -26516,7 +26516,7 @@
 12	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	21	aux	_	Translit=ē|LTranslit=em
 13	նման	նման	ADJ	_	_	14	amod	_	Translit=nman|LTranslit=nman
 14	նվերը	նվեր	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	21	nsubj:pass	_	Translit=nverë|LTranslit=nver|SpaceAfter=No
-15	,	,	PUNCT	_	_	21	punct	_	Translit=,|LTranslit=,
+15	,	,	PUNCT	_	_	20	punct	_	Translit=,|LTranslit=,
 16	և	և	CCONJ	_	_	21	cc	_	Translit=ew|LTranslit=ew
 17	ինչու	ինչու	ADV	_	PronType=Int	21	advmod	_	Translit=inčow|LTranslit=inčow
 18	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	21	aux	_	Translit=ē|LTranslit=em
