@@ -26502,38 +26502,38 @@
 # sent_id = news-0074-00010CSK
 # text = Նա միաժամանակ նշել է, որ անհասկանալի է, թե ինչու է նման նվերը, և ինչու է բաժնետոմսերի կառավարումը փոխանցվում վարչապետի գրասենյակին, այլ ոչ թե ֆինանսների կամ էկոնոմիկայի նախարարություններին:
 # translit = Na miažamanak nšel ē, or anhaskanali ē, t’e inčow ē nman nverë, ew inčow ē bažnetomseri kaṙavarowmë p’oxanc’vowm varčapeti grasenyakin, ayl oč t’e finansneri kam ēkonomikayi naxararowt’yownnerin.
-1	Նա	նա	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Translit=Na|LTranslit=na
-2	միաժամանակ	միաժամանակ	ADV	_	_	3	advmod	_	Translit=miažamanak|LTranslit=miažamanak
-3	նշել	նշել	VERB	_	Aspect=Perf|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=nšel|LTranslit=nšel
-4	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	aux	_	Translit=ē|LTranslit=em|SpaceAfter=No
-5	,	,	PUNCT	_	_	7	punct	_	Translit=,|LTranslit=,
-6	որ	որ	SCONJ	_	_	7	mark	_	Translit=or|LTranslit=or
-7	անհասկանալի	անհասկանալի	ADJ	_	_	3	ccomp	_	Translit=anhaskanali|LTranslit=anhaskanali
-8	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	cop	_	Translit=ē|LTranslit=em|SpaceAfter=No
-9	,	,	PUNCT	_	_	21	punct	_	Translit=,|LTranslit=,
-10	թե	թե	SCONJ	_	_	21	mark	_	Translit=t’e|LTranslit=t’e
-11	ինչու	ինչու	ADV	_	PronType=Int	21	advmod	_	Translit=inčow|LTranslit=inčow
-12	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	21	aux	_	Translit=ē|LTranslit=em
-13	նման	նման	ADJ	_	_	14	amod	_	Translit=nman|LTranslit=nman
-14	նվերը	նվեր	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	21	nsubj:pass	_	Translit=nverë|LTranslit=nver|SpaceAfter=No
-15	,	,	PUNCT	_	_	20	punct	_	Translit=,|LTranslit=,
-16	և	և	CCONJ	_	_	21	cc	_	Translit=ew|LTranslit=ew
-17	ինչու	ինչու	ADV	_	PronType=Int	21	advmod	_	Translit=inčow|LTranslit=inčow
-18	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	21	aux	_	Translit=ē|LTranslit=em
-19	բաժնետոմսերի	բաժնետոմս	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Plur	20	nmod:poss	_	Translit=bažnetomseri|LTranslit=bažnetoms
-20	կառավարումը	կառավարում	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Coll	14	conj	_	Translit=kaṙavarowmë|LTranslit=kaṙavarowm
-21	փոխանցվում	փոխանցել	VERB	_	Aspect=Imp|Subcat=Intr|VerbForm=Part|Voice=Pass	7	csubj	_	Translit=p’oxanc’vowm|LTranslit=p’oxanc’el
-22	վարչապետի	վարչապետ	NOUN	_	Animacy=Hum|Case=Dat|Definite=Ind|Number=Sing	23	nmod:poss	_	Translit=varčapeti|LTranslit=varčapet
-23	գրասենյակին	գրասենյակ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Sing	21	iobj	_	Translit=grasenyakin|LTranslit=grasenyak|SpaceAfter=No
-24	,	,	PUNCT	_	_	31	punct	_	Translit=,|LTranslit=,
-25	այլ	այլ	CCONJ	_	ConjType=Comp	31	cc	_	Translit=ayl|LTranslit=ayl
-26	ոչ	ոչ	PART	_	Polarity=Neg	25	fixed	_	Translit=oč|LTranslit=oč
-27	թե	թե	PART	_	_	25	fixed	_	Translit=t’e|LTranslit=t’e
-28	ֆինանսների	ֆինանս	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Plur	31	nmod:poss	_	Translit=finansneri|LTranslit=finans
-29	կամ	կամ	CCONJ	_	_	30	cc	_	Translit=kam|LTranslit=kam
-30	էկոնոմիկայի	էկոնոմիկա	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Coll	28	conj	_	Translit=ēkonomikayi|LTranslit=ēkonomika
-31	նախարարություններին	նախարարություն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Plur	23	conj	_	Translit=naxararowt’yownnerin|LTranslit=naxararowt’yown|SpaceAfter=No
-32	:	:	PUNCT	_	Foreign=Yes	3	punct	_	Translit=.|LTranslit=.
+1	Նա	նա	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	միաժամանակ	միաժամանակ	ADV	_	_	3	advmod	_	_
+3	նշել	նշել	VERB	_	Aspect=Perf|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	_
+4	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	aux	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	որ	որ	SCONJ	_	_	7	mark	_	_
+7	անհասկանալի	անհասկանալի	ADJ	_	_	3	ccomp	_	_
+8	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	cop	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	21	punct	_	_
+10	թե	թե	SCONJ	_	_	21	mark	_	_
+11	ինչու	ինչու	ADV	_	PronType=Int	21	advmod	_	_
+12	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	21	aux	_	_
+13	նման	նման	ADJ	_	_	14	amod	_	_
+14	նվերը	նվեր	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	21	nsubj:pass	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	20	punct	_	_
+16	և	և	CCONJ	_	_	20	cc	_	_
+17	ինչու	ինչու	ADV	_	PronType=Int	20	orphan	_	_
+18	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	20	orphan	_	_
+19	բաժնետոմսերի	բաժնետոմս	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Plur	20	nmod:poss	_	_
+20	կառավարումը	կառավարում	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Coll	14	conj	_	_
+21	փոխանցվում	փոխանցել	VERB	_	Aspect=Imp|Subcat=Intr|VerbForm=Part|Voice=Pass	7	csubj	_	_
+22	վարչապետի	վարչապետ	NOUN	_	Animacy=Hum|Case=Dat|Definite=Ind|Number=Sing	23	nmod:poss	_	_
+23	գրասենյակին	գրասենյակ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Sing	21	iobj	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	31	punct	_	_
+25	այլ	այլ	CCONJ	_	ConjType=Comp	31	cc	_	_
+26	ոչ	ոչ	PART	_	Polarity=Neg	25	fixed	_	_
+27	թե	թե	PART	_	_	25	fixed	_	_
+28	ֆինանսների	ֆինանս	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Plur	31	nmod:poss	_	_
+29	կամ	կամ	CCONJ	_	_	30	cc	_	_
+30	էկոնոմիկայի	էկոնոմիկա	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Coll	28	conj	_	_
+31	նախարարություններին	նախարարություն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Plur	23	conj	_	SpaceAfter=No
+32	:	:	PUNCT	_	Foreign=Yes	3	punct	_	_
 
 # sent_id = news-0074-00010CSL
 # text = «Սա ուղիղ մասնակցություն է խոշորագույն կոմբինատին և ֆինանսական հոսքերի հսկում»,- ասել է Ռոբերտ Քոչարյանը:
