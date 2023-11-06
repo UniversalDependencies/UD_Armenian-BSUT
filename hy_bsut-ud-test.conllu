@@ -1982,7 +1982,7 @@
 9	վարակող	վարակել	VERB	_	Aspect=Dur|Polarity=Pos|Subcat=Tran|VerbForm=Part|Voice=Act	10	acl	_	Translit=varakoġ|LTranslit=varakel
 10	ծրագիր	ծրագիր	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	5	xcomp	_	Translit=çragir|LTranslit=çragir|SpaceAfter=No
 11	,	,	PUNCT	_	_	13	punct	_	Translit=,|LTranslit=,
-12	որը	որ	PRON	_	Case=Nom|Definite=Def|Number=Sing|PronType=Rel	13	nsubj	_	Translit=orë|LTranslit=or
+12	որը	որ	PRON	_	Case=Nom|Definite=Def|Number=Sing|PronType=Rel	13	obj	_	Translit=orë|LTranslit=or
 13	արտադրում	արտադրել	VERB	_	Aspect=Imp|Subcat=Tran|VerbForm=Part|Voice=Act	10	acl:relcl	_	Translit=artadrowm|LTranslit=artadrel
 14	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	13	aux	_	Translit=ē|LTranslit=em
 15	իսրայելական	իսրայելական	ADJ	_	NameType=Geo	16	amod	_	Translit=israyelakan|LTranslit=israyelakan
@@ -10350,7 +10350,7 @@
 8	նոր	նոր	ADJ	_	Degree=Pos	9	amod	_	Translit=nor|LTranslit=nor
 9	առաջարկներ	առաջարկ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Plur	11	obj	_	Translit=aṙaǰarkner|LTranslit=aṙaǰark
 10	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	11	aux	_	Translit=ē|LTranslit=em
-11	ներկայացրել	ներկայացնել	VERB	_	Aspect=Perf|Subcat=Tran|VerbForm=Part|Voice=Act	3	csubj	_	Translit=nerkayac’rel|LTranslit=nerkayac’nel
+11	ներկայացրել	ներկայացնել	VERB	_	Aspect=Perf|Subcat=Tran|VerbForm=Part|Voice=Act	3	ccomp	_	Translit=nerkayac’rel|LTranslit=nerkayac’nel
 12	Ադրբեջանի	Ադրբեջան	PROPN	_	Animacy=Nhum|Case=Dat|Definite=Ind|NameType=Geo|Number=Sing	16	obl	_	Translit=Adrbeǰani|LTranslit=Adrbeǰan
 13	հետ	հետ	ADP	_	AdpType=Post	12	case	_	Translit=het|LTranslit=het
 14	սահմանազատման	սահմանազատում	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Coll	15	nmod:poss	_	Translit=sahmanazatman|LTranslit=sahmanazatowm
