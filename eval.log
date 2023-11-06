@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 04abe686385f14a9a6f68784bd723a6b60ded594
+commit e9726a6a7d6913193d90edb45a4cb549235c5b16
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 9 00:14:39 2023 +0200
+Date:   Sat Nov 4 17:10:55 2023 +0100
 Evaluating the following revision of UD_Armenian-BSUT:
-commit d65c4d46bd80788f943c57665ae3935b75e9c3c4
+commit d830ea18816e2b95e46e0126e26c5b821b27d9b1
+Merge: 43bdaa0 1a7bf54
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Mon Nov 14 10:03:57 2022 +0100
 Size: counted 41805 of 41805 words (nodes).
 Size: min(0, log((N/1000)**2)) = 7.46603189920404.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -20,39 +20,25 @@ Features: source of annotation (from README) factor is 1.
 Universal relations: 35 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Udapi:
-               TOTAL        114
-Udapi: found 114 bugs.
+               TOTAL        106
+Udapi: found 106 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 41805 words.
 Genres: found 7 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang hy --max-err=10 UD_Armenian-BSUT/hy_bsut-ud-dev.conllu
-[Line 3185 Sent legal-0081-000B0EFA Node 19]: [L3 Syntax too-many-subjects] Multiple subjects [1, 21] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
-Syntax errors: 1
-*** FAILED *** with 1 errors
-Exit code: 1
+*** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang hy --max-err=10 UD_Armenian-BSUT/hy_bsut-ud-test.conllu
-[Line 1986 Sent blog-008C-00090EVJ Node 13]: [L3 Syntax too-many-subjects] Multiple subjects [12, 18] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 10345 Sent news-007G-00070D4T Node 3]: [L3 Syntax too-many-subjects] Multiple subjects [1, 11] not subtyped as ':outer'.
-Syntax errors: 2
-*** FAILED *** with 2 errors
-Exit code: 1
+*** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang hy --max-err=10 UD_Armenian-BSUT/hy_bsut-ud-train.conllu
-[Line 5433 Sent legal-0083-00130EJC Node 38]: [L3 Syntax too-many-subjects] Multiple subjects [37, 40] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 16456 Sent nonfiction-007L-00070DBT Node 10]: [L3 Syntax too-many-subjects] Multiple subjects [3, 13] not subtyped as ':outer'.
-[Line 16930 Sent nonfiction-007L-000D0DCF Node 11]: [L3 Syntax too-many-subjects] Multiple subjects [8, 15] not subtyped as ':outer'.
-[Line 23413 Sent news-007K-001E0D9A Node 2]: [L3 Syntax too-many-subjects] Multiple subjects [1, 8] not subtyped as ':outer'.
-[Line 26525 Sent news-0074-00010CSK Node 21]: [L3 Syntax too-many-subjects] Multiple subjects [14, 20] not subtyped as ':outer'.
-Syntax errors: 5
-*** FAILED *** with 5 errors
-Exit code: 1
-Validity: 0.01
+*** PASSED ***
+Validity: 1
 (weight=0.0769230769230769) * (score{features}=1) = 0.0769230769230769
 (weight=0.0769230769230769) * (score{genres}=0.411764705882353) = 0.0316742081447964
 (weight=0.0769230769230769) * (score{lemmas}=1) = 0.0769230769230769
 (weight=0.256410256410256) * (score{size}=0.540409409256328) = 0.13856651519393
 (weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
 (weight=0.0769230769230769) * (score{tags}=1) = 0.0769230769230769
-(weight=0.307692307692308) * (score{udapi}=0.972730534625045) = 0.299301702961552
+(weight=0.307692307692308) * (score{udapi}=0.974644181318024) = 0.299890517328623
 (weight=0.0769230769230769) * (score{udeprels}=0.945945945945946) = 0.0727650727650728
-(TOTAL score=0.824358781116634) * (availability=1) * (validity=0.01) = 0.00824358781116634
-STARS = 0
-UD_Armenian-BSUT	0.00824358781116634	0
+(TOTAL score=0.824947595483704) * (availability=1) * (validity=1) = 0.824947595483704
+STARS = 4
+UD_Armenian-BSUT	0.824947595483704	4
