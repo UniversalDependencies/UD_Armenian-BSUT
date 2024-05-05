@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit e9726a6a7d6913193d90edb45a4cb549235c5b16
+commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sat Nov 4 17:10:55 2023 +0100
+Date:   Sun May 5 09:21:16 2024 +0200
 Evaluating the following revision of UD_Armenian-BSUT:
-commit d830ea18816e2b95e46e0126e26c5b821b27d9b1
-Merge: 43bdaa0 1a7bf54
+commit abd054fab1cef3b8d4c81737d1061aa9c47e6033
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Mon Nov 6 11:31:01 2023 +0100
 Size: counted 41805 of 41805 words (nodes).
 Size: min(0, log((N/1000)**2)) = 7.46603189920404.
 Size: maximum value 13.815511 is for 1000000 words or more.
