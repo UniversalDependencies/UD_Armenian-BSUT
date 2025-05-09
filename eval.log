@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
+commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun Nov 10 10:33:45 2024 +0100
+Date:   Fri May 9 21:07:42 2025 +0200
 Evaluating the following revision of UD_Armenian-BSUT:
-commit f5b4ede869f938458138c743432f9ebbc7815b0f
+commit 614f633dae11564f2b98a8b9e6131a7c522c9764
+Merge: bc7c13a 0501358
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 5 11:53:50 2024 +0200
 Size: counted 41805 of 41805 words (nodes).
 Size: min(0, log((N/1000)**2)) = 7.46603189920404.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -20,38 +20,92 @@ Features: source of annotation (from README) factor is 1.
 Universal relations: 35 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Udapi:
-               TOTAL        106
-Udapi: found 106 bugs.
+               TOTAL         42
+Udapi: found 42 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 41805 words.
-Genres: found 7 out of 17 known.
+Genres: found 8 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang hy --max-err=10 UD_Armenian-BSUT/hy_bsut-ud-dev.conllu
-[Line 6330 Sent nonfiction-007R-00020E05 Node 16]: [L3 Warning leaf-det] 'det' not expected to have children (16:այլ:det --> 25:թախիծն:advcl)
-[Line 7038 Sent fiction-007P-00060DSO Node 2]: [L3 Warning leaf-det] 'det' not expected to have children (2:էնքան:det --> 16:աճել:advcl)
-Warnings: 2
-*** PASSED ***
+[Line 189 Sent web-008G-00070F45 Node 11]: [L3 Warning fixed-without-extpos] Fixed expression 'ոչ միայն' does not have the 'ExtPos' feature
+[Line 226 Sent web-008G-00080F47 Node 3]: [L3 Warning fixed-without-extpos] Fixed expression 'մի քանի' does not have the 'ExtPos' feature
+[Line 256 Sent web-008G-000A0F49 Node 6]: [L3 Warning fixed-without-extpos] Fixed expression 'այդ թվում' does not have the 'ExtPos' feature
+[Line 615 Sent web-008G-000N0F4T Node 11]: [L3 Warning fixed-without-extpos] Fixed expression 'հիման վրա' does not have the 'ExtPos' feature
+[Line 717 Sent web-008G-000R0F52 Node 5]: [L3 Warning fixed-without-extpos] Fixed expression 'ինչ որ' does not have the 'ExtPos' feature
+[Line 1035 Sent wiki-008F-00020F2T Node 16]: [L3 Warning fixed-without-extpos] Fixed expression 'հիման վրա' does not have the 'ExtPos' feature
+[Line 1388 Sent wiki-008F-00070F3C Node 10]: [L3 Warning fixed-without-extpos] Fixed expression 'ինչպես նաև' does not have the 'ExtPos' feature
+[Line 1808 Sent blog-008D-00020EVT Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'Քանի որ' does not have the 'ExtPos' feature
+[Line 1845 Sent blog-008D-00020EVT Node 38]: [L3 Warning fixed-without-extpos] Fixed expression 'ի վեր' does not have the 'ExtPos' feature
+[Line 1857 Sent blog-008D-00020EVU Node 3]: [L3 Warning fixed-without-extpos] Fixed expression 'մի քանիսի' does not have the 'ExtPos' feature
+...suppressing further errors regarding Warning
+[Line 1964 Sent blog-008D-00040F03 Node 11]: [L3 Syntax rel-upos-det] 'det' should be 'DET' or 'PRON' but it is 'PART' word 'ոչ'
+[Line 6330 Sent nonfiction-007R-00020E05 Node 16]: [L3 Syntax leaf-det] 'det' not expected to have children (16:այլ:det --> 25:թախիծն:advcl)
+[Line 7038 Sent fiction-007P-00060DSO Node 2]: [L3 Syntax leaf-det] 'det' not expected to have children (2:էնքան:det --> 16:աճել:advcl)
+[Line 7761 Sent fiction-007P-000L0DTD Node 45]: [L3 Syntax rel-upos-det] 'det' should be 'DET' or 'PRON' but it is 'PART' word 'ոչ'
+[Line 8857 Sent news-007E-00070D3D Node 22]: [L3 Syntax rel-upos-det] 'det' should be 'DET' or 'PRON' but it is 'PART' word 'ոչ'
+[Line 10752 Sent news-007B-00080D18 Node 11]: [L3 Syntax rel-upos-det] 'det' should be 'DET' or 'PRON' but it is 'PART' word 'ոչ'
+Syntax errors: 6
+Warnings: 83
+*** FAILED *** with 6 errors
+Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang hy --max-err=10 UD_Armenian-BSUT/hy_bsut-ud-test.conllu
-[Line 2173 Sent blog-0088-00030ES1 Node 10]: [L3 Warning leaf-det] 'det' not expected to have children (10:այն:det --> 24:նույնացվեց:advcl)
-[Line 11898 Sent news-0078-00070CV9 Node 5]: [L3 Warning leaf-det] 'det' not expected to have children (5:այնպիսի:det --> 18:գնդակահարում:advcl)
-[Line 12095 Sent news-0078-000A0CVF Node 32]: [L3 Warning leaf-det] 'det' not expected to have children (32:նույն:det --> 36:ռազմաճակատում:advcl)
-Warnings: 3
-*** PASSED ***
+[Line 858 Sent wiki-008E-000D0F1O Node 7]: [L3 Warning fixed-without-extpos] Fixed expression 'այդ թվում' does not have the 'ExtPos' feature
+[Line 970 Sent wiki-008E-000F0F1U Node 7]: [L3 Warning fixed-without-extpos] Fixed expression 'այդ թվում' does not have the 'ExtPos' feature
+[Line 1021 Sent wiki-008E-000G0F1V Node 11]: [L3 Warning fixed-without-extpos] Fixed expression 'ուր և' does not have the 'ExtPos' feature
+[Line 1721 Sent blog-008C-00050EV7 Node 6]: [L3 Warning fixed-without-extpos] Fixed expression 'ինչպես նաև' does not have the 'ExtPos' feature
+[Line 1902 Sent blog-008C-00080EVF Node 30]: [L3 Warning fixed-without-extpos] Fixed expression 'մի քանի' does not have the 'ExtPos' feature
+[Line 1925 Sent blog-008C-00090EVG Node 9]: [L3 Warning fixed-without-extpos] Fixed expression 'մի քանի' does not have the 'ExtPos' feature
+[Line 1948 Sent blog-008C-00090EVH Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'Քանի որ' does not have the 'ExtPos' feature
+[Line 1953 Sent blog-008C-00090EVH Node 6]: [L3 Warning fixed-without-extpos] Fixed expression 'դժվար թե' does not have the 'ExtPos' feature
+[Line 2173 Sent blog-0088-00030ES1 Node 10]: [L3 Syntax leaf-det] 'det' not expected to have children (10:այն:det --> 24:նույնացվեց:advcl)
+[Line 2174 Sent blog-0088-00030ES1 Node 25]: [L3 Warning fixed-without-extpos] Fixed expression 'ոչ թե' does not have the 'ExtPos' feature
+[Line 2443 Sent blog-0088-00090ESB Node 13]: [L3 Warning fixed-without-extpos] Fixed expression 'իբրև թե' does not have the 'ExtPos' feature
+...suppressing further errors regarding Warning
+[Line 2587 Sent blog-0088-000E0ESG Node 12]: [L3 Syntax rel-upos-det] 'det' should be 'DET' or 'PRON' but it is 'PART' word 'ոչ'
+[Line 3347 Sent blog-0086-000E0EPP Node 5]: [L3 Syntax rel-upos-det] 'det' should be 'DET' or 'PRON' but it is 'PART' word 'ոչ'
+[Line 8613 Sent fiction-007O-000R0DPQ Node 15]: [L3 Syntax rel-upos-det] 'det' should be 'DET' or 'PRON' but it is 'PART' word 'ոչ'
+[Line 8761 Sent fiction-007O-000R0DQ0 Node 2]: [L3 Syntax rel-upos-det] 'det' should be 'DET' or 'PRON' but it is 'PART' word 'ոչ'
+[Line 10896 Sent news-007G-000D0D5F Node 9]: [L3 Syntax rel-upos-det] 'det' should be 'DET' or 'PRON' but it is 'PART' word 'ոչ'
+[Line 11898 Sent news-0078-00070CV9 Node 5]: [L3 Syntax leaf-det] 'det' not expected to have children (5:այնպիսի:det --> 18:գնդակահարում:advcl)
+[Line 12095 Sent news-0078-000A0CVF Node 32]: [L3 Syntax leaf-det] 'det' not expected to have children (32:նույն:det --> 36:ռազմաճակատում:advcl)
+Syntax errors: 8
+Warnings: 75
+*** FAILED *** with 8 errors
+Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang hy --max-err=10 UD_Armenian-BSUT/hy_bsut-ud-train.conllu
-[Line 5161 Sent legal-0083-000T0EJ3 Node 35]: [L3 Warning leaf-det] 'det' not expected to have children (35:այլ:det --> 38:համարժեք:appos)
-[Line 17097 Sent nonfiction-007L-000E0DCI Node 30]: [L3 Warning leaf-det] 'det' not expected to have children (30:այնպիսի:det --> 35:ունենում:advcl)
-[Line 19794 Sent nonfiction-007L-001E0DFG Node 29]: [L3 Warning leaf-det] 'det' not expected to have children (29:նույն:det --> 34:վիճակում:advcl)
-[Line 20706 Sent nonfiction-007L-001M0DGJ Node 3]: [L3 Warning leaf-det] 'det' not expected to have children (3:մյուս:det --> 6:միակ:appos)
-[Line 21340 Sent nonfiction-007L-001R0DHF Node 25]: [L3 Warning leaf-det] 'det' not expected to have children (25:այլ:det --> 30:հայկական:appos)
-Warnings: 5
-*** PASSED ***
-Validity: 1
+[Line 467 Sent web-008K-000D0FDF Node 4]: [L3 Warning fixed-without-extpos] Fixed expression 'հիման վրա' does not have the 'ExtPos' feature
+[Line 762 Sent blog-008B-00020ETM Node 4]: [L3 Warning fixed-without-extpos] Fixed expression 'ոչ թե' does not have the 'ExtPos' feature
+[Line 838 Sent blog-008B-00030ETR Node 5]: [L3 Warning fixed-without-extpos] Fixed expression 'կարծես թե' does not have the 'ExtPos' feature
+[Line 1185 Sent blog-008B-00090EU9 Node 15]: [L3 Warning fixed-without-extpos] Fixed expression 'մի քանի' does not have the 'ExtPos' feature
+[Line 1204 Sent blog-008B-000A0EUB Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'Ընդ որում' does not have the 'ExtPos' feature
+[Line 1294 Sent blog-008B-000B0EUE Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'Առավել ևս' does not have the 'ExtPos' feature
+[Line 1354 Sent blog-008B-000D0EUG Node 18]: [L3 Warning fixed-without-extpos] Fixed expression 'ինչպես նաև' does not have the 'ExtPos' feature
+[Line 1453 Sent blog-008B-000F0EUM Node 12]: [L3 Warning fixed-without-extpos] Fixed expression 'ոչ միայն' does not have the 'ExtPos' feature
+[Line 1570 Sent blog-008B-000G0EUS Node 10]: [L3 Warning fixed-without-extpos] Fixed expression 'քանի որ' does not have the 'ExtPos' feature
+[Line 1746 Sent blog-0087-00020EQM Node 8]: [L3 Warning fixed-without-extpos] Fixed expression 'Non Fungible Token' does not have the 'ExtPos' feature
+...suppressing further errors regarding Warning
+[Line 5161 Sent legal-0083-000T0EJ3 Node 35]: [L3 Syntax leaf-det] 'det' not expected to have children (35:այլ:det --> 38:համարժեք:appos)
+[Line 15979 Sent news-007M-000C0DJB Node 1]: [L3 Syntax rel-upos-det] 'det' should be 'DET' or 'PRON' but it is 'PART' word 'Ոչ'
+[Line 17097 Sent nonfiction-007L-000E0DCI Node 30]: [L3 Syntax leaf-det] 'det' not expected to have children (30:այնպիսի:det --> 35:ունենում:advcl)
+[Line 18118 Sent nonfiction-007L-000O0DDM Node 6]: [L3 Syntax rel-upos-det] 'det' should be 'DET' or 'PRON' but it is 'PART' word 'ոչ'
+[Line 18178 Sent nonfiction-007L-000P0DDN Node 44]: [L3 Syntax rel-upos-det] 'det' should be 'DET' or 'PRON' but it is 'PART' word 'ոչ'
+[Line 18473 Sent nonfiction-007L-000U0DE1 Node 10]: [L3 Syntax rel-upos-det] 'det' should be 'DET' or 'PRON' but it is 'PART' word 'ոչ'
+[Line 19794 Sent nonfiction-007L-001E0DFG Node 29]: [L3 Syntax leaf-det] 'det' not expected to have children (29:նույն:det --> 34:վիճակում:advcl)
+[Line 20078 Sent nonfiction-007L-001H0DFU Node 5]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'ի'
+[Line 20665 Sent nonfiction-007L-001L0DGH Node 47]: [L3 Syntax rel-upos-det] 'det' should be 'DET' or 'PRON' but it is 'PART' word 'ոչ'
+[Line 20706 Sent nonfiction-007L-001M0DGJ Node 3]: [L3 Syntax leaf-det] 'det' not expected to have children (3:մյուս:det --> 6:միակ:appos)
+...suppressing further errors regarding Syntax
+Syntax errors: 13
+Warnings: 159
+*** FAILED *** with 13 errors
+Exit code: 1
+Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=1) = 0.0769230769230769
-(weight=0.0769230769230769) * (score{genres}=0.411764705882353) = 0.0316742081447964
+(weight=0.0769230769230769) * (score{genres}=0.444444444444444) = 0.0341880341880342
 (weight=0.0769230769230769) * (score{lemmas}=1) = 0.0769230769230769
 (weight=0.256410256410256) * (score{size}=0.540409409256328) = 0.13856651519393
 (weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
 (weight=0.0769230769230769) * (score{tags}=1) = 0.0769230769230769
-(weight=0.307692307692308) * (score{udapi}=0.974644181318024) = 0.299890517328623
+(weight=0.307692307692308) * (score{udapi}=0.989953354861859) = 0.304601032265187
 (weight=0.0769230769230769) * (score{udeprels}=0.945945945945946) = 0.0727650727650728
-(TOTAL score=0.824947595483704) * (availability=1) * (validity=1) = 0.824947595483704
-STARS = 4
-UD_Armenian-BSUT	0.824947595483704	4
+(TOTAL score=0.832171936463507) * (availability=1) * (validity=0.01) = 0.00832171936463507
+STARS = 0
+UD_Armenian-BSUT	0.00832171936463507	0
