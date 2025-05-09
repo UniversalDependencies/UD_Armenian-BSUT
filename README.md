@@ -16,7 +16,8 @@ The treebank created by: Marat M. Yavrumyan, Rima R. Grigoryan, Anna S. Danielya
 
 ## References
 
-Yavrumyan M. M., Danielyan A. S., “Universal Dependencies and the Armenian Treebank.” Herald of the Social Sciences (2).231-244, 2020. (in Armenian)
+* Marat M. Yavrumyan, Anna S. Danielyan, “Universal Dependencies and the Armenian Treebank.” Herald of the Social Sciences (2): 231-244, 2020. (in Armenian)
+* Anna S. Danielyan, Marat M. Yavrumyan, "Verb Complements in the Eastern Armenian Treebanks UD_Armenian-ArmTDP and UD_Armenian-BSUT." Bulletin of Yerevan University B: Philology 15, 3(45): 139-152, 2024. (in Armenian)
 
 ## Format
 
