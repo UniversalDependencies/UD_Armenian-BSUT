@@ -36,12 +36,22 @@ UD_Armenian-BSUT data conforms to [CoNLL-U](http://universaldependencies.org/for
 
 
 # Changelog
+
+* 2025-11-15 v2.17
+   * Specified `fixed`.
+   * Introduced `ExtPos`.
+   * `det:poss`, `nmod:poss`, `flatExtPos` improved.
+   * Added new texts: 42K→47K.
+
 * 2023-11-15 v2.13
   * Fixed various individual annotation errors and inconsistencies.
+
 * 2022-11-15 v2.11
-  * Fixed various individual annotation errors and inconsistencies, added new texts: 42K→47K.
+  * Fixed various individual annotation errors and inconsistencies.
+
 * 2022-05-15 v2.10
   * Fixed various individual annotation errors and inconsistencies, added new texts: 3K→42K.
+
 * 2021-11-15 v2.9
   * Initial release in Universal Dependencies.
 
