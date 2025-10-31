@@ -38,10 +38,11 @@ UD_Armenian-BSUT data conforms to [CoNLL-U](http://universaldependencies.org/for
 # Changelog
 
 * 2025-11-15 v2.17
-   * Specified `fixed`.
-   * Introduced `ExtPos`.
-   * `det:poss`, `nmod:poss`, `flatExtPos` improved.
    * Added new texts: 42K→47K.
+   * Specified `fixed` and introduced `ExtPos`.
+   * Introduced `NameType=Pat` for foreign (mostly Slavic or à la Slavic manner) patronymics.
+   * `det:poss`, `nmod:poss` improved.
+   * Fixed various individual annotation errors and inconsistencies.
 
 * 2023-11-15 v2.13
   * Fixed various individual annotation errors and inconsistencies.
