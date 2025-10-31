@@ -1195,27 +1195,27 @@
 11	մեկը	մեկը	PRON	_	Case=Nom|PronType=Ind	12	nsubj	_	Translit=mekë|LTranslit=mekë
 12	մենախոսում	մենախոսել	VERB	_	Aspect=Imp|Subcat=Intr|VerbForm=Part|Voice=Mid	6	acl:relcl	_	Translit=menaxosowm|LTranslit=menaxosel
 13	էր	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VerbForm=Fin	12	aux	_	Translit=ēr|LTranslit=em
-14	house	house	X	_	Foreign=Yes	37	nmod:poss	_	Translit=house|LTranslit=house|SpaceAfter=No|Lang=
+14	house	house	X	_	Foreign=Yes	37	nmod:poss	_	Translit=house|LTranslit=house|SpaceAfter=No
 15	-	-	PUNCT	_	_	16	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
 16	ի	ը	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Hyph=Yes|Number=Sing	14	dep	_	Translit=i|LTranslit=ë
 17	և	և	CCONJ	_	_	18	cc	_	Translit=ew|LTranslit=ew
-18	home	home	X	_	Foreign=Yes	14	conj	_	Translit=home|LTranslit=home|SpaceAfter=No|Lang=
+18	home	home	X	_	Foreign=Yes	14	conj	_	Translit=home|LTranslit=home|SpaceAfter=No
 19	-	-	PUNCT	_	_	20	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
 20	ի	ը	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Hyph=Yes|Number=Sing	18	dep	_	Translit=i|LTranslit=ë|SpaceAfter=No
 21	,	,	PUNCT	_	_	22	punct	_	Translit=,|LTranslit=,
-22	basement	basement	X	_	Foreign=Yes	14	conj	_	Translit=basement|LTranslit=basement|SpaceAfter=No|Lang=
+22	basement	basement	X	_	Foreign=Yes	14	conj	_	Translit=basement|LTranslit=basement|SpaceAfter=No
 23	-	-	PUNCT	_	_	24	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
 24	ի	ը	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Hyph=Yes|Number=Sing	22	dep	_	Translit=i|LTranslit=ë
 25	և	և	CCONJ	_	_	26	cc	_	Translit=ew|LTranslit=ew
-26	cellar	cellar	X	_	Foreign=Yes	22	conj	_	Translit=cellar|LTranslit=cellar|SpaceAfter=No|Lang=
+26	cellar	cellar	X	_	Foreign=Yes	22	conj	_	Translit=cellar|LTranslit=cellar|SpaceAfter=No
 27	-	-	PUNCT	_	_	28	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
 28	ի	ը	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Hyph=Yes|Number=Sing	26	dep	_	Translit=i|LTranslit=ë
 29	ու	ու	CCONJ	_	_	30	cc	_	Translit=ow|LTranslit=ow
-30	dinner	dinner	X	_	Foreign=Yes	14	conj	_	Translit=dinner|LTranslit=dinner|SpaceAfter=No|Lang=
+30	dinner	dinner	X	_	Foreign=Yes	14	conj	_	Translit=dinner|LTranslit=dinner|SpaceAfter=No
 31	-	-	PUNCT	_	_	32	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
 32	ի	ը	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Hyph=Yes|Number=Sing	30	dep	_	Translit=i|LTranslit=ë
 33	և	և	CCONJ	_	_	34	cc	_	Translit=ew|LTranslit=ew
-34	supper	supper	X	_	Foreign=Yes	30	conj	_	Translit=supper|LTranslit=supper|SpaceAfter=No|Lang=
+34	supper	supper	X	_	Foreign=Yes	30	conj	_	Translit=supper|LTranslit=supper|SpaceAfter=No
 35	-	-	PUNCT	_	_	36	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
 36	ի	ը	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Hyph=Yes|Number=Sing	34	dep	_	Translit=i|LTranslit=ë
 37	հոմանիշների	հոմանիշ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Plur	38	nmod:poss	_	Translit=homanišneri|LTranslit=homaniš
@@ -1239,13 +1239,13 @@
 11	համոզել	համոզել	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	9	ccomp	_	Translit=hamozel|LTranslit=hamozel|SpaceAfter=No
 12	,	,	PUNCT	_	_	17	punct	_	Translit=,|LTranslit=,
 13	թե	թե	SCONJ	_	_	17	mark	_	Translit=t’e|LTranslit=t’e
-14	dinner	dinner	X	_	Foreign=Yes	17	nsubj	_	Translit=dinner|LTranslit=dinner|SpaceAfter=No|Lang=
+14	dinner	dinner	X	_	Foreign=Yes	17	nsubj	_	Translit=dinner|LTranslit=dinner|SpaceAfter=No
 15	-	-	PUNCT	_	_	16	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
 16	ը	ը	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Hyph=Yes|Number=Sing	14	dep	_	Translit=ë|LTranslit=ë
 17	ճաշն	ճաշ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Coll	11	advcl	_	Translit=č̣ašn|LTranslit=č̣aš
 18	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	17	cop	_	Translit=ē|LTranslit=em|SpaceAfter=No
 19	,	,	PUNCT	_	_	20	punct	_	Translit=,|LTranslit=,
-20	supper	supper	X	_	Foreign=Yes	17	conj	_	Translit=supper|LTranslit=supper|SpaceAfter=No|Lang=
+20	supper	supper	X	_	Foreign=Yes	17	conj	_	Translit=supper|LTranslit=supper|SpaceAfter=No
 21	-	-	PUNCT	_	_	22	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
 22	ը	ը	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Hyph=Yes|Number=Sing	20	dep	_	Translit=ë|LTranslit=ë|SpaceAfter=No
 23	՝	՝	PUNCT	_	_	24	punct	_	Translit=,|LTranslit=,
@@ -1274,7 +1274,7 @@
 2	70	70	NUM	_	NumForm=Digit|NumType=Card	5	nmod:poss	_	Translit=70|LTranslit=70|SpaceAfter=No
 3	-	-	PUNCT	_	_	4	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
 4	ականների	ական	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Hyph=Yes|Number=Plur	2	dep	_	Translit=akanneri|LTranslit=akan
-5	Նյու	Նյու	X	_	ExtPos=PROPN|Foreign=Yes	7	nmod:poss	_	Translit=Nyow|LTranslit=Nyow|Lang=
+5	Նյու	Նյու	X	_	ExtPos=PROPN|Foreign=Yes	7	nmod:poss	_	Translit=Nyow|LTranslit=Nyow
 6	Յորքի	Յորք	PROPN	_	Animacy=Nhum|Case=Dat|Definite=Ind|NameType=Geo|Number=Sing	5	flat	_	Translit=York’i|LTranslit=York’
 7	արվեստագետների	արվեստագետ	NOUN	_	Animacy=Hum|Case=Dat|Definite=Ind|Number=Plur	0	root	_	Translit=arvestagetneri|LTranslit=arvestaget
 8	մասին	մասին	ADP	_	AdpType=Post	7	case	_	Translit=masin|LTranslit=masin
@@ -2042,9 +2042,9 @@
 21	լինելը	լինել	VERB	_	Case=Nom|Definite=Def|Polarity=Pos|Subcat=Intr|VerbForm=Inf|Voice=Mid	10	conj	_	Translit=linelë|LTranslit=linel|SpaceAfter=No
 22	»	»	PUNCT	_	_	21	punct	_	Translit=»|LTranslit=»|SpaceAfter=No
 23	՝	՝	PUNCT	_	_	28	punct	_	Translit=,|LTranslit=,
-24	Նյու	Նյու	X	_	ExtPos=PROPN|Foreign=Yes	27	obl	_	Translit=Nyow|LTranslit=Nyow|Lang=
+24	Նյու	Նյու	X	_	ExtPos=PROPN|Foreign=Yes	27	obl	_	Translit=Nyow|LTranslit=Nyow
 25	Ջերսիում	Ջերսի	PROPN	_	Animacy=Nhum|Case=Loc|Definite=Ind|NameType=Geo|Number=Sing	24	flat	_	Translit=J̌ersiowm|LTranslit=J̌ersi
-26	տեղի	տեղի	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing|Style=Arch	27	compound:lvc	_	Translit=teġi|LTranslit=teġi|Lang=xcl
+26	տեղի	տեղի	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing|Style=Arch	27	compound:lvc	_	Translit=teġi|LTranslit=teġi
 27	ունեցած	ունենալ	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Tran|VerbForm=Part|Voice=Act	28	acl	_	Translit=ownec’aç|LTranslit=ownenal
 28	փոթորկի	փոթորիկ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	21	orphan	_	Translit=p’ot’orki|LTranslit=p’ot’orik|SpaceAfter=No
 29	:	:	PUNCT	_	Foreign=Yes	10	punct	_	Translit=.|LTranslit=.
@@ -2343,7 +2343,7 @@
 7	ու	ու	CCONJ	_	_	17	cc	_	Translit=ow|LTranslit=ow
 8	եթե	եթե	SCONJ	_	_	14	mark	_	Translit=et’e|LTranslit=et’e
 9	նույնիսկ	նույնիսկ	PART	_	_	10	discourse	_	Translit=nowynisk|LTranslit=nowynisk
-10	Նյու	Նյու	X	_	ExtPos=PROPN|Foreign=Yes	14	obl	_	Translit=Nyow|LTranslit=Nyow|Lang=
+10	Նյու	Նյու	X	_	ExtPos=PROPN|Foreign=Yes	14	obl	_	Translit=Nyow|LTranslit=Nyow
 11	Ջերսիի	Ջերսի	PROPN	_	Animacy=Nhum|Case=Dat|Definite=Ind|NameType=Geo|Number=Sing	10	flat	_	Translit=J̌ersii|LTranslit=J̌ersi
 12	մասին	մասին	ADP	_	AdpType=Post	10	case	_	Translit=masin|LTranslit=masin
 13	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	14	aux	_	Translit=ē|LTranslit=em
@@ -3915,7 +3915,7 @@
 10	առկա	առկա	ADJ	_	_	4	conj	_	Translit=aṙka|LTranslit=aṙka
 11	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	10	cop	_	Translit=ē|LTranslit=em
 12	դրանց	դրանք	PRON	_	Case=Dat|Deixis=Med|Number=Plur|PronType=Dem	14	nmod:poss	_	Translit=dranc’|LTranslit=drank’
-13	տեղի	տեղի	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing|Style=Arch	14	compound:lvc	_	Translit=teġi|LTranslit=teġi|Lang=xcl
+13	տեղի	տեղի	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing|Style=Arch	14	compound:lvc	_	Translit=teġi|LTranslit=teġi
 14	ունենալու	ունենալ	VERB	_	Case=Dat|Definite=Ind|Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	16	nmod:poss	_	Translit=ownenalow|LTranslit=ownenal
 15	իրական	իրական	ADJ	_	Degree=Pos	16	amod	_	Translit=irakan|LTranslit=irakan
 16	վտանգ	վտանգ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	10	nsubj	_	Translit=vtang|LTranslit=vtang|SpaceAfter=No
@@ -6863,7 +6863,7 @@
 4	մենք	մենք	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	Translit=menk’|LTranslit=menk’
 5	իմանում	իմանալ	VERB	_	Aspect=Imp|Subcat=Tran|VerbForm=Part|Voice=Act	1	acl:relcl	_	Translit=imanowm|LTranslit=imanal
 6	ենք	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	aux	_	Translit=enk’|LTranslit=em
-7	Cloudflare	Cloudflare	X	_	ExtPos=PROPN|Foreign=Yes	10	nmod:poss	_	Translit=Cloudflare|LTranslit=Cloudflare|SpaceAfter=No|Lang=
+7	Cloudflare	Cloudflare	X	_	ExtPos=PROPN|Foreign=Yes	10	nmod:poss	_	Translit=Cloudflare|LTranslit=Cloudflare|SpaceAfter=No
 8	-	-	PUNCT	_	_	9	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
 9	ի	ը	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Hyph=Yes|Number=Sing	7	dep	_	Translit=i|LTranslit=ë
 10	տվյալներից	տվյալ	NOUN	_	Animacy=Nhum|Case=Abl|Definite=Ind|Number=Plur	5	obl	_	Translit=tvyalneric’|LTranslit=tvyal|SpaceAfter=No
@@ -6878,7 +6878,7 @@
 19	նաև	նաև	CCONJ	_	ConjType=Comp	18	fixed	_	Translit=naew|LTranslit=naew
 20	աշխարհում	աշխարհ	NOUN	_	Animacy=Nhum|Case=Loc|Definite=Ind|Number=Sing	16	conj	_	Translit=ašxarhowm|LTranslit=ašxarh|SpaceAfter=No
 21	,	,	PUNCT	_	_	25	punct	_	Translit=,|LTranslit=,
-22	TikTok	TikTok	X	_	ExtPos=PROPN|Foreign=Yes	25	nsubj	_	Translit=TikTok|LTranslit=TikTok|SpaceAfter=No|Lang=
+22	TikTok	TikTok	X	_	ExtPos=PROPN|Foreign=Yes	25	nsubj	_	Translit=TikTok|LTranslit=TikTok|SpaceAfter=No
 23	-	-	PUNCT	_	_	24	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
 24	ը	նը|ը	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing|Poss=Yes	22	dep	_	Translit=ë|LTranslit=në|ë
 25	դարձել	դառնալ	VERB	_	Aspect=Perf|Subcat=Intr|VerbForm=Part|Voice=Mid	12	acl	_	Translit=darjel|LTranslit=daṙnal
@@ -6891,8 +6891,8 @@
 # sent_id = blog-008B-000D0EUH
 # text = Cloudflare Radar տվյալները Հայաստանում մեկ ամսվա ընթացքում
 # translit = Cloudflare Radar tvyalnerë Hayastanowm mek amsva ënt’ac’k’owm
-1	Cloudflare	Cloudflare	X	_	ExtPos=PROPN|Foreign=Yes	3	nmod	_	Translit=Cloudflare|LTranslit=Cloudflare|Lang=
-2	Radar	Radar	X	_	Foreign=Yes	1	flat	_	Translit=Radar|LTranslit=Radar|Lang=
+1	Cloudflare	Cloudflare	X	_	ExtPos=PROPN|Foreign=Yes	3	nmod	_	Translit=Cloudflare|LTranslit=Cloudflare
+2	Radar	Radar	X	_	Foreign=Yes	1	flat	_	Translit=Radar|LTranslit=Radar
 3	տվյալները	տվյալ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Plur	0	root	_	Translit=tvyalnerë|LTranslit=tvyal
 4	Հայաստանում	Հայաստան	PROPN	_	Animacy=Nhum|Case=Loc|Definite=Ind|NameType=Geo|Number=Sing	3	nmod:npmod	_	Translit=Hayastanowm|LTranslit=Hayastan
 5	մեկ	մեկ	NUM	_	NumForm=Word|NumType=Card	6	nummod	_	Translit=mek|LTranslit=mek
@@ -7179,12 +7179,12 @@
 6	բառ	բառ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	8	xcomp	_	Translit=baṙ|LTranslit=baṙ
 7	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	8	aux	_	Translit=ē|LTranslit=em
 8	հռչակել	հռչակել	VERB	_	Aspect=Perf|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=hṙčakel|LTranslit=hṙčakel
-9	vax	vax	X	_	Foreign=Yes	8	obj	_	Translit=vax|LTranslit=vax|SpaceAfter=No|Lang=
+9	vax	vax	X	_	Foreign=Yes	8	obj	_	Translit=vax|LTranslit=vax|SpaceAfter=No
 10	-	-	PUNCT	_	_	11	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
 11	ը	ը	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Hyph=Yes|Number=Sing	9	dep	_	Translit=ë|LTranslit=ë|SpaceAfter=No
 12	,	,	PUNCT	_	_	22	punct	_	Translit=,|LTranslit=,
 13	որը	որ	PRON	_	Case=Nom|Definite=Def|Number=Sing|PronType=Rel	22	nsubj	_	Translit=orë|LTranslit=or
-14	vaccine	vaccine	X	_	Foreign=Yes	15	nmod	_	Translit=vaccine|LTranslit=vaccine|Lang=
+14	vaccine	vaccine	X	_	Foreign=Yes	15	nmod	_	Translit=vaccine|LTranslit=vaccine
 15	բառի	բառ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	22	nmod:poss	_	Translit=baṙi|LTranslit=baṙ
 16	(	(	PUNCT	_	_	17	punct	_	Translit=(|LTranslit=(|SpaceAfter=No
 17	պատվաստում	պատվաստում	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	14	parataxis	_	Translit=patvastowm|LTranslit=patvastowm|SpaceAfter=No
@@ -7224,7 +7224,7 @@
 6	նոր	նոր	ADJ	_	Degree=Pos	7	amod	_	Translit=nor|LTranslit=nor
 7	բառ	բառ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	1	nsubj	_	Translit=baṙ|LTranslit=baṙ|SpaceAfter=No
 8	՝	՝	PUNCT	_	_	9	punct	_	Translit=,|LTranslit=,
-9	vaxxie	vaxxie	X	_	Foreign=Yes	7	appos	_	Translit=vaxxie|LTranslit=vaxxie|SpaceAfter=No|Lang=
+9	vaxxie	vaxxie	X	_	Foreign=Yes	7	appos	_	Translit=vaxxie|LTranslit=vaxxie|SpaceAfter=No
 10	,	,	PUNCT	_	_	11	punct	_	Translit=,|LTranslit=,
 11	սելֆի	սելֆի	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	9	appos	_	Translit=selfi|LTranslit=selfi|SpaceAfter=No
 12	,	,	PUNCT	_	_	14	punct	_	Translit=,|LTranslit=,
@@ -7264,11 +7264,11 @@
 3	կանգ	կանգ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	5	compound:lvc	_	Translit=kang|LTranslit=kang
 4	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	aux	_	Translit=ē|LTranslit=em
 5	առել	առնել	VERB	_	Aspect=Perf|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=aṙel|LTranslit=aṙnel
-6	NFT	NFT	X	_	Abbr=Yes|Foreign=Yes	12	nmod	_	Translit=NFT|LTranslit=NFT|Lang=
+6	NFT	NFT	X	_	Abbr=Yes|Foreign=Yes	12	nmod	_	Translit=NFT|LTranslit=NFT
 7	(	(	PUNCT	_	_	8	punct	_	Translit=(|LTranslit=(|SpaceAfter=No
-8	Non	Non	X	_	Foreign=Yes	6	appos	_	Translit=Non|LTranslit=Non|Lang=
-9	Fungible	Fungible	X	_	Foreign=Yes	8	flat	_	Translit=Fungible|LTranslit=Fungible|Lang=
-10	Token	Token	X	_	Foreign=Yes	8	flat	_	Translit=Token|LTranslit=Token|SpaceAfter=No|Lang=
+8	Non	Non	X	_	Foreign=Yes	6	appos	_	Translit=Non|LTranslit=Non
+9	Fungible	Fungible	X	_	Foreign=Yes	8	flat	_	Translit=Fungible|LTranslit=Fungible
+10	Token	Token	X	_	Foreign=Yes	8	flat	_	Translit=Token|LTranslit=Token|SpaceAfter=No
 11	)	)	PUNCT	_	_	8	punct	_	Translit=)|LTranslit=)
 12	բառի	բառ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	5	obl	_	Translit=baṙi|LTranslit=baṙ
 13	վրա	վրա	ADP	_	AdpType=Post	12	case	_	Translit=vra|LTranslit=vra|SpaceAfter=No
@@ -11715,7 +11715,7 @@
 26	հաստատված	հաստատել	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Pass	27	acl	_	Translit=hastatvaç|LTranslit=hastatel
 27	հավելվածի	հավելված	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	32	nmod:poss	_	Translit=havelvaçi|LTranslit=havelvaç
 28	«	«	PUNCT	_	_	32	punct	_	Translit=«|LTranslit=«|SpaceAfter=No
-29	F	F	X	_	Foreign=Yes	32	parataxis	_	Translit=F|LTranslit=F|SpaceAfter=No|Lang=
+29	F	F	X	_	Foreign=Yes	32	parataxis	_	Translit=F|LTranslit=F|SpaceAfter=No
 30	41	41	NUM	_	NumForm=Digit|NumType=Card	29	nummod	_	Translit=41|LTranslit=41
 31	Շենքերի	շենք	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Plur	32	nmod:poss	_	Translit=Šenk’eri|LTranslit=šenk’
 32	շինարարություն	շինարարություն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	34	nmod	_	Translit=šinararowt’yown|LTranslit=šinararowt’yown|SpaceAfter=No
@@ -12076,7 +12076,7 @@
 5	Սյունիքի	Սյունիք	PROPN	_	Animacy=Nhum|Case=Dat|Definite=Ind|NameType=Geo|Number=Sing	6	nmod:poss	_	Translit=Syownik’i|LTranslit=Syownik’
 6	մարզում	մարզ	NOUN	_	Animacy=Nhum|Case=Loc|Definite=Ind|Number=Sing	15	nmod:npmod	_	Translit=marzowm|LTranslit=marz
 7	«	«	PUNCT	_	_	11	punct	_	Translit=«|LTranslit=«|SpaceAfter=No
-8	F	F	X	_	Foreign=Yes	11	parataxis	_	Translit=F|LTranslit=F|SpaceAfter=No|Lang=
+8	F	F	X	_	Foreign=Yes	11	parataxis	_	Translit=F|LTranslit=F|SpaceAfter=No
 9	41	41	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	Translit=41|LTranslit=41
 10	Շենքերի	շենք	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Plur	11	nmod:poss	_	Translit=Šenk’eri|LTranslit=šenk’
 11	շինարարություն	շինարարություն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	13	nmod	_	Translit=šinararowt’yown|LTranslit=šinararowt’yown|SpaceAfter=No
@@ -16794,7 +16794,7 @@
 10	՝	՝	PUNCT	_	_	14	punct	_	Translit=,|LTranslit=,
 11	ինչ	ինչ	PRON	_	Case=Nom|Definite=Ind|Number=Sing|PronType=Int	14	nsubj	_	Translit=inč|LTranslit=inč
 12	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	14	aux	_	Translit=ē|LTranslit=em
-13	տեղի	տեղի	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing|Style=Arch	14	compound:lvc	_	Translit=teġi|LTranslit=teġi|Lang=xcl
+13	տեղի	տեղի	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing|Style=Arch	14	compound:lvc	_	Translit=teġi|LTranslit=teġi
 14	ունենում	ունենալ	VERB	_	Aspect=Imp|Subcat=Tran|VerbForm=Part|Voice=Act	8	ccomp	_	Translit=ownenowm|LTranslit=ownenal|SpaceAfter=No
 15	,	,	PUNCT	_	_	18	punct	_	Translit=,|LTranslit=,
 16	որին	որ	PRON	_	Case=Dat|Definite=Def|Number=Sing|PronType=Rel	18	obj	_	Translit=orin|LTranslit=or
@@ -19111,7 +19111,7 @@
 11	փարթամ	փարթամ	ADJ	_	Degree=Pos	13	amod	_	Translit=p’art’am|LTranslit=p’art’am
 12	կրծքային	կրծքային	ADJ	_	_	13	amod	_	Translit=krçk’ayin|LTranslit=krçk’ayin
 13	ձայնը	ձայն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	15	nsubj	_	Translit=jaynë|LTranslit=jayn
-14	տեղի	տեղի	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing|Style=Arch	15	compound:lvc	_	Translit=teġi|LTranslit=teġi|Lang=xcl
+14	տեղի	տեղի	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing|Style=Arch	15	compound:lvc	_	Translit=teġi|LTranslit=teġi
 15	տվեց	տալ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	Translit=tvec’|LTranslit=tal
 16	գլխայինին	գլխային	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Sing	15	obj	_	Translit=glxayinin|LTranslit=glxayin|SpaceAfter=No
 17	,	,	PUNCT	_	_	19	punct	_	Translit=,|LTranslit=,
@@ -19751,7 +19751,7 @@
 15	,	,	PUNCT	_	_	17	punct	_	Translit=,|LTranslit=,
 16	ու	ու	CCONJ	_	_	17	cc	_	Translit=ow|LTranslit=ow
 17	սկսեց	սկսել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	Translit=sksec’|LTranslit=sksel
-18	անիծել	անիծել	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	17	xcomp	_	Translit=aniçel|LTranslit=aniçel|Lang=
+18	անիծել	անիծել	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	17	xcomp	_	Translit=aniçel|LTranslit=aniçel
 19	հասուն	հասուն	ADJ	_	Degree=Pos	20	amod	_	Translit=hasown|LTranslit=hasown
 20	կյանքի	կյանք	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	23	nmod:poss	_	Translit=kyank’i|LTranslit=kyank’
 21	ապրած	ապրել	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Mid	23	acl	_	Translit=apraç|LTranslit=aprel
@@ -19861,7 +19861,7 @@
 8	հայերեն	հայերեն	ADJ	_	_	10	amod	_	Translit=hayeren|LTranslit=hayeren
 9	մեկումեջ	մեկումեջ	ADV	_	_	11	advmod	_	Translit=mekowmeǰ|LTranslit=mekowmeǰ
 10	բառեր	բառ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Plur	11	obj	_	Translit=baṙer|LTranslit=baṙ
-11	լավելով	լավել	VERB	_	Case=Ins|Definite=Ind|Polarity=Pos|Style=Vrnc|Subcat=Tran|VerbForm=Inf|Voice=Act	5	advcl	_	Translit=lavelov|LTranslit=lavel|SpaceAfter=No|Lang=
+11	լավելով	լավել	VERB	_	Case=Ins|Definite=Ind|Polarity=Pos|Style=Vrnc|Subcat=Tran|VerbForm=Inf|Voice=Act	5	advcl	_	Translit=lavelov|LTranslit=lavel|SpaceAfter=No
 12	…	…	PUNCT	_	_	16	punct	_	Translit=…|LTranslit=…
 13-14	ափսո՜ս	_	_	_	_	_	_	_	Translit=ap’so!s|SpaceAfter=No
 13	ափսոս	ափսոս	INTJ	_	_	16	discourse	_	Translit=ap’sos|LTranslit=ap’sos
@@ -21544,10 +21544,10 @@
 2	արդյունքները	արդյունք	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Plur	3	nsubj:pass	_	Translit=ardyownk’nerë|LTranslit=ardyownk’
 3	հրապարակված	հրապարակել	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Pass	0	root	_	Translit=hraparakvaç|LTranslit=hraparakel
 4	են	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	aux	_	Translit=en|LTranslit=em
-5	Studies	Studies	X	_	ExtPos=PROPN|Foreign=Yes	3	obl	_	Translit=Studies|LTranslit=Studies|Lang=
-6	of	of	X	_	Foreign=Yes	5	flat:name	_	Translit=of|LTranslit=of|Lang=
-7	Applied	Applied	X	_	Foreign=Yes	5	flat:name	_	Translit=Applied|LTranslit=Applied|Lang=
-8	Economics	Economics	X	_	Foreign=Yes	5	flat:name	_	Translit=Economics|LTranslit=Economics|SpaceAfter=No|Lang=
+5	Studies	Studies	X	_	ExtPos=PROPN|Foreign=Yes	3	obl	_	Translit=Studies|LTranslit=Studies
+6	of	of	X	_	Foreign=Yes	5	flat:name	_	Translit=of|LTranslit=of
+7	Applied	Applied	X	_	Foreign=Yes	5	flat:name	_	Translit=Applied|LTranslit=Applied
+8	Economics	Economics	X	_	Foreign=Yes	5	flat:name	_	Translit=Economics|LTranslit=Economics|SpaceAfter=No
 9	-	-	PUNCT	_	_	10	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
 10	ում	ը	NOUN	_	Animacy=Nhum|Case=Loc|Definite=Ind|Hyph=Yes|Number=Sing	5	dep	_	Translit=owm|LTranslit=ë|SpaceAfter=No
 11	։	։	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
@@ -22303,7 +22303,7 @@
 4	ըստ	ըստ	ADP	_	AdpType=Prep	8	case	_	Translit=ëst|LTranslit=ëst
 5	նույն	նույն	DET	_	Deixis=Remt|PronType=Dem	7	det	_	Translit=nowyn|LTranslit=nowyn
 6	Սուրբ	սուրբ	ADJ	_	Degree=Pos	7	amod	_	Translit=Sowrb|LTranslit=sowrb
-7	գրոց	գիր	NOUN	_	Animacy=Nhum|Case=Gen|Definite=Ind|Number=Plur|Style=Arch	8	nmod:poss	_	Translit=groc’|LTranslit=gir|Lang=xcl
+7	գրոց	գիր	NOUN	_	Animacy=Nhum|Case=Gen|Definite=Ind|Number=Plur|Style=Arch	8	nmod:poss	_	Translit=groc’|LTranslit=gir
 8	վկայության	վկայություն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	15	parataxis	_	Translit=vkayowt’yan|LTranslit=vkayowt’yown|SpaceAfter=No
 9	)	)	PUNCT	_	_	8	punct	_	Translit=)|LTranslit=)
 10	Ադամ	Ադամ	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	14	nmod:poss	_	Translit=Adam|LTranslit=Adam|SpaceAfter=No
@@ -27541,7 +27541,7 @@
 1	ԱՄՆ	ԱՄՆ	PROPN	_	Abbr=Yes|Animacy=Nhum|Case=Nom|Definite=Ind|NameType=Geo|Number=Sing	6	obl	_	Translit=AMN|LTranslit=AMN|SpaceAfter=No
 2	-	-	PUNCT	_	_	3	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
 3	ում	ը	NOUN	_	Animacy=Nhum|Case=Loc|Definite=Ind|Hyph=Yes|Number=Sing	1	dep	_	Translit=owm|LTranslit=ë
-4	տեղի	տեղի	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing|Style=Arch	6	compound:lvc	_	Translit=teġi|LTranslit=teġi|Lang=xcl
+4	տեղի	տեղի	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing|Style=Arch	6	compound:lvc	_	Translit=teġi|LTranslit=teġi
 5	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	aux	_	Translit=ē|LTranslit=em
 6	ունեցել	ունենալ	VERB	_	Aspect=Perf|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=ownec’el|LTranslit=ownenal
 7	«	«	PUNCT	_	_	9	punct	_	Translit=«|LTranslit=«|SpaceAfter=No
@@ -27724,7 +27724,7 @@
 # sent_id = news-007K-00060D7J
 # text = NBC հեռուստաընկերությունը հրաժարվել է հեռարձակել արարողությունը այն մեղադրանքներից հետո, թե «Ոսկե գլոբուսը» անուշադրության է մատնում սևամորթ դերասաններին ու կանանց և կարող է որոշումներ կայացնել կինոընկերությունների ազդեցության տակ։
 # translit = NBC heṙowstaënkerowt’yownë hražarvel ē heṙarjakel araroġowt’yownë ayn meġadrank’neric’ heto, t’e «Oske globowsë» anowšadrowt’yan ē matnowm sewamort’ derasannerin ow kananc’ ew karoġ ē orošowmner kayac’nel kinoënkerowt’yownneri azdec’owt’yan tak.
-1	NBC	NBC	X	_	Foreign=Yes	2	nmod	_	Translit=NBC|LTranslit=NBC|Lang=
+1	NBC	NBC	X	_	Foreign=Yes	2	nmod	_	Translit=NBC|LTranslit=NBC
 2	հեռուստաընկերությունը	հեռուստաընկերություն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	3	nsubj	_	Translit=heṙowstaënkerowt’yownë|LTranslit=heṙowstaënkerowt’yown
 3	հրաժարվել	հրաժարվել	VERB	_	Aspect=Perf|Subcat=Intr|VerbForm=Part|Voice=Mid	0	root	_	Translit=hražarvel|LTranslit=hražarvel
 4	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	aux	_	Translit=ē|LTranslit=em
@@ -27762,7 +27762,7 @@
 # translit = P’oxanc’owm ē BBC-n.
 1	Փոխանցում	փոխանցել	VERB	_	Aspect=Imp|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=P’oxanc’owm|LTranslit=p’oxanc’el
 2	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	aux	_	Translit=ē|LTranslit=em
-3	BBC	BBC	X	_	Foreign=Yes	1	nsubj	_	Translit=BBC|LTranslit=BBC|SpaceAfter=No|Lang=
+3	BBC	BBC	X	_	Foreign=Yes	1	nsubj	_	Translit=BBC|LTranslit=BBC|SpaceAfter=No
 4	-	-	PUNCT	_	_	5	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
 5	ն	ը	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Hyph=Yes|Number=Sing	3	dep	_	Translit=n|LTranslit=ë|SpaceAfter=No
 6	։	։	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
@@ -28046,7 +28046,7 @@
 # translit = P’oxanc’owm ē BBC-n.
 1	Փոխանցում	փոխանցել	VERB	_	Aspect=Imp|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=P’oxanc’owm|LTranslit=p’oxanc’el
 2	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	aux	_	Translit=ē|LTranslit=em
-3	BBC	BBC	X	_	Foreign=Yes	1	nsubj	_	Translit=BBC|LTranslit=BBC|SpaceAfter=No|Lang=
+3	BBC	BBC	X	_	Foreign=Yes	1	nsubj	_	Translit=BBC|LTranslit=BBC|SpaceAfter=No
 4	-	-	PUNCT	_	_	5	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
 5	ն	ը	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Hyph=Yes|Number=Sing	3	dep	_	Translit=n|LTranslit=ë|SpaceAfter=No
 6	։	։	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
@@ -28158,7 +28158,7 @@
 # translit = P’oxanc’owm ē tass.ru-n.
 1	Փոխանցում	փոխանցել	VERB	_	Aspect=Imp|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=P’oxanc’owm|LTranslit=p’oxanc’el
 2	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	aux	_	Translit=ē|LTranslit=em
-3	tass.ru	tass.ru	SYM	_	Foreign=Yes	1	nsubj	_	Translit=tass.ru|LTranslit=tass.ru|SpaceAfter=No|Lang=
+3	tass.ru	tass.ru	SYM	_	Foreign=Yes	1	nsubj	_	Translit=tass.ru|LTranslit=tass.ru|SpaceAfter=No
 4	-	-	PUNCT	_	_	5	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
 5	ն	ը	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Hyph=Yes|Number=Sing	3	dep	_	Translit=n|LTranslit=ë|SpaceAfter=No
 6	։	։	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
@@ -28302,7 +28302,7 @@
 14	կինոնկարը	կինոնկար	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	5	nsubj	_	Translit=kinonkarë|LTranslit=kinonkar|SpaceAfter=No
 15	՝	՝	PUNCT	_	_	25	punct	_	Translit=,|LTranslit=,
 16	Լեոնարդո	Լեոնարդո	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	25	nmod:poss	_	Translit=Leonardo|LTranslit=Leonardo
-17	դի	դի	X	_	Foreign=Yes	16	flat:name	_	Translit=di|LTranslit=di|Lang=
+17	դի	դի	X	_	Foreign=Yes	16	flat:name	_	Translit=di|LTranslit=di
 18	Կապրիոյի	Կապրիո	PROPN	_	Animacy=Hum|Case=Dat|Definite=Ind|NameType=Sur|Number=Sing	16	flat:name	_	Translit=Kaprioyi|LTranslit=Kaprio|SpaceAfter=No
 19	,	,	PUNCT	_	_	20	punct	_	Translit=,|LTranslit=,
 20	Բրեդ	Բրեդ	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	16	conj	_	Translit=Bred|LTranslit=Bred
@@ -28404,7 +28404,7 @@
 # translit = P’oxanc’owm ē euronews-ë.
 1	Փոխանցում	փոխանցել	VERB	_	Aspect=Imp|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=P’oxanc’owm|LTranslit=p’oxanc’el
 2	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	aux	_	Translit=ē|LTranslit=em
-3	euronews	euronews	X	_	Foreign=Yes	1	nsubj	_	Translit=euronews|LTranslit=euronews|SpaceAfter=No|Lang=
+3	euronews	euronews	X	_	Foreign=Yes	1	nsubj	_	Translit=euronews|LTranslit=euronews|SpaceAfter=No
 4	-	-	PUNCT	_	_	5	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
 5	ը	ը	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Hyph=Yes|Number=Sing	3	dep	_	Translit=ë|LTranslit=ë|SpaceAfter=No
 6	:	:	PUNCT	_	Foreign=Yes	1	punct	_	Translit=.|LTranslit=.
@@ -28804,7 +28804,7 @@
 6	իտալացի	իտալացի	ADJ	_	NameType=Geo	7	amod	_	Translit=italac’i|LTranslit=italac’i
 7	պրոդյուսեր	պրոդյուսեր	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	8	nmod	_	Translit=prodyowser|LTranslit=prodyowser
 8	Պաոլո	Պաոլո	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	4	nsubj	_	Translit=Paolo|LTranslit=Paolo
-9	Դել	դել	X	_	Foreign=Yes	8	flat:name	_	Translit=Del|LTranslit=del|Lang=
+9	Դել	դել	X	_	Foreign=Yes	8	flat:name	_	Translit=Del|LTranslit=del
 10	Բրոկկոն	Բրոկկո	PROPN	_	Animacy=Hum|Case=Nom|Definite=Def|NameType=Sur|Number=Sing	8	flat:name	_	Translit=Brokkon|LTranslit=Brokko|SpaceAfter=No
 11	:	:	PUNCT	_	Foreign=Yes	4	punct	_	Translit=.|LTranslit=.
 
@@ -28816,7 +28816,7 @@
 2	Կինսկիից	Կինսկի	PROPN	_	Animacy=Hum|Case=Abl|Definite=Ind|NameType=Sur|Number=Sing	1	flat:name	_	Translit=Kinskiic’|LTranslit=Kinski
 3	և	և	CCONJ	_	_	4	cc	_	Translit=ew|LTranslit=ew
 4	Պաոլո	Պաոլո	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	1	conj	_	Translit=Paolo|LTranslit=Paolo
-5	Դել	դել	X	_	Foreign=Yes	4	flat:name	_	Translit=Del|LTranslit=del|Lang=
+5	Դել	դել	X	_	Foreign=Yes	4	flat:name	_	Translit=Del|LTranslit=del
 6	Բրոկկոյից	Բրոկկո	PROPN	_	Animacy=Hum|Case=Abl|Definite=Ind|NameType=Sur|Number=Sing	4	flat:name	_	Translit=Brokkoyic’|LTranslit=Brokko
 7	բացի	բացի	ADP	_	AdpType=Prep	1	case	_	Translit=bac’i|LTranslit=bac’i|SpaceAfter=No
 8	՝	՝	PUNCT	_	_	12	punct	_	Translit=,|LTranslit=,
@@ -28885,7 +28885,7 @@
 # translit = P’oxanc’owm ē Interfax-ë.
 1	Փոխանցում	փոխանցել	VERB	_	Aspect=Imp|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=P’oxanc’owm|LTranslit=p’oxanc’el
 2	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	aux	_	Translit=ē|LTranslit=em
-3	Interfax	Interfax	X	_	Foreign=Yes	1	nsubj	_	Translit=Interfax|LTranslit=Interfax|SpaceAfter=No|Lang=
+3	Interfax	Interfax	X	_	Foreign=Yes	1	nsubj	_	Translit=Interfax|LTranslit=Interfax|SpaceAfter=No
 4	-	-	PUNCT	_	_	5	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
 5	ը	ը	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Hyph=Yes|Number=Sing	3	dep	_	Translit=ë|LTranslit=ë|SpaceAfter=No
 6	:	:	PUNCT	_	Foreign=Yes	1	punct	_	Translit=.|LTranslit=.
@@ -28938,7 +28938,7 @@
 16	ճանաչվել	ճանաչել	VERB	_	Aspect=Perf|Subcat=Intr|VerbForm=Part|Voice=Pass	0	root	_	Translit=č̣anačvel|LTranslit=č̣anačel
 17	ռեժիսոր	ռեժիսոր	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	18	nmod	_	Translit=ṙežisor|LTranslit=ṙežisor
 18	Գիլյերմո	Գիլյերմո	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	25	nmod:poss	_	Translit=Gilyermo|LTranslit=Gilyermo
-19	դել	դել	X	_	Foreign=Yes	18	flat:name	_	Translit=del|LTranslit=del|Lang=
+19	դել	դել	X	_	Foreign=Yes	18	flat:name	_	Translit=del|LTranslit=del
 20	Տորոյի	Տորո	PROPN	_	Animacy=Hum|Case=Dat|Definite=Ind|NameType=Sur|Number=Sing	18	flat:name	_	Translit=Toroyi|LTranslit=Toro
 21	«	«	PUNCT	_	_	23	punct	_	Translit=«|LTranslit=«|SpaceAfter=No
 22	Ջրի	ջուր	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	23	nmod:poss	_	Translit=J̌ri|LTranslit=ǰowr
@@ -29314,7 +29314,7 @@
 # sent_id = news-007K-00210DA0
 # text = Լոս-Անջելեսում հայտարարել են Արտասահմանյան մամուլի հոլիվուդյան ասոցիացիայի «Ոսկե գլոբուս» մրցանակի հավակնորդների անունները:
 # translit = Los-Anǰelesowm haytararel en Artasahmanyan mamowli holivowdyan asoc’iac’iayi «Oske globows» mrc’anaki havaknordneri anownnerë.
-1	Լոս	Լոս	X	_	ExtPos=PROPN|Foreign=Yes	4	obl	_	Translit=Los|LTranslit=Los|SpaceAfter=No|Lang=
+1	Լոս	Լոս	X	_	ExtPos=PROPN|Foreign=Yes	4	obl	_	Translit=Los|LTranslit=Los|SpaceAfter=No
 2	-	-	PUNCT	_	_	3	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
 3	Անջելեսում	Անջելես	PROPN	_	Animacy=Nhum|Case=Loc|Definite=Ind|NameType=Geo|Number=Sing	1	flat:name	_	Translit=Anǰelesowm|LTranslit=Anǰeles
 4	հայտարարել	հայտարարել	VERB	_	Aspect=Perf|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=haytararel|LTranslit=haytararel
@@ -29337,7 +29337,7 @@
 # text = Գիլյերմո դել Տորոյի «Ջրի պատկերը» ֆանտաստիկ դրաման՝ երկկենցաղ մարդու և սովորական հավաքարարուհու սիրո մասին, անվանակարգերի թվով առաջատարն է՝ այն կարող է մրցանակի արժանանալ յոթ անվանակարգերում:
 # translit = Gilyermo del Toroyi «J̌ri patkerë» fantastik draman, erkkenc’aġ mardow ew sovorakan havak’ararowhow siro masin, anvanakargeri t’vov aṙaǰatarn ē, ayn karoġ ē mrc’anaki aržananal yot’ anvanakargerowm.
 1	Գիլյերմո	Գիլյերմո	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	6	nmod:poss	_	Translit=Gilyermo|LTranslit=Gilyermo
-2	դել	դել	X	_	Foreign=Yes	1	flat:name	_	Translit=del|LTranslit=del|Lang=
+2	դել	դել	X	_	Foreign=Yes	1	flat:name	_	Translit=del|LTranslit=del
 3	Տորոյի	Տորո	PROPN	_	Animacy=Hum|Case=Dat|Definite=Ind|NameType=Sur|Number=Sing	1	flat:name	_	Translit=Toroyi|LTranslit=Toro
 4	«	«	PUNCT	_	_	6	punct	_	Translit=«|LTranslit=«|SpaceAfter=No
 5	Ջրի	ջուր	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	6	nmod:poss	_	Translit=J̌ri|LTranslit=ǰowr
@@ -29435,7 +29435,7 @@
 33	փոքր	փոքր	ADJ	_	Degree=Pos	34	amod	_	Translit=p’ok’r|LTranslit=p’ok’r
 34	քաղաքից	քաղաք	NOUN	_	Animacy=Nhum|Case=Abl|Definite=Ind|Number=Sing	35	obl	_	Translit=k’aġak’ic’|LTranslit=k’aġak’
 35	տեղափոխվել	տեղափոխվել	VERB	_	Polarity=Pos|Subcat=Intr|VerbForm=Inf|Voice=Mid	32	xcomp	_	Translit=teġap’oxvel|LTranslit=teġap’oxvel
-36	Նյու	Նյու	X	_	ExtPos=PROPN|Foreign=Yes	35	obl	_	Translit=Nyow|LTranslit=Nyow|Lang=
+36	Նյու	Նյու	X	_	ExtPos=PROPN|Foreign=Yes	35	obl	_	Translit=Nyow|LTranslit=Nyow
 37	Յորք	Յորք	PROPN	_	Animacy=Nhum|Case=Nom|Definite=Ind|NameType=Geo|Number=Sing	36	flat:name	_	Translit=York’|LTranslit=York’|SpaceAfter=No
 38	:	:	PUNCT	_	Foreign=Yes	14	punct	_	Translit=.|LTranslit=.
 
@@ -29706,7 +29706,7 @@
 # text = Միգել դե Սերվանտես. Դոն Քիշոտ
 # translit = Migel de Servantes. Don K’išot
 1	Միգել	Միգել	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	0	root	_	Translit=Migel|LTranslit=Migel
-2	դե	դե	X	_	Foreign=Yes	1	flat:name	_	Translit=de|LTranslit=de|Lang=
+2	դե	դե	X	_	Foreign=Yes	1	flat:name	_	Translit=de|LTranslit=de
 3	Սերվանտես	Սերվանտես	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Sur|Number=Sing	2	flat:name	_	Translit=Servantes|LTranslit=Servantes|SpaceAfter=No
 4	.	.	PUNCT	_	Foreign=Yes	5	punct	_	Translit=.|LTranslit=.
 5	Դոն	դոն	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	1	list	_	Translit=Don|LTranslit=don
@@ -29890,7 +29890,7 @@
 # text = Մարկիզ դե Սադ. Սոդոմի 120 օրը
 # translit = Markiz de Sad. Sodomi 120 òrë
 1	Մարկիզ	մարկիզ	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	0	root	_	Translit=Markiz|LTranslit=markiz
-2	դե	դե	X	_	Foreign=Yes	1	flat:name	_	Translit=de|LTranslit=de|Lang=
+2	դե	դե	X	_	Foreign=Yes	1	flat:name	_	Translit=de|LTranslit=de
 3	Սադ	Սադ	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Sur|Number=Sing	2	flat:name	_	Translit=Sad|LTranslit=Sad|SpaceAfter=No
 4	.	.	PUNCT	_	Foreign=Yes	7	punct	_	Translit=.|LTranslit=.
 5	Սոդոմի	Սոդոմ	PROPN	_	Animacy=Nhum|Case=Dat|Definite=Ind|NameType=Geo|Number=Sing	7	nmod:poss	_	Translit=Sodomi|LTranslit=Sodom
@@ -29903,7 +29903,7 @@
 # translit = Fransiac’i markiz de Sadë mek angam čē haytnvel skandalneri kentronowm.
 1	Ֆրանսիացի	ֆրանսիացի	ADJ	_	NameType=Geo	2	amod	_	Translit=Fransiac’i|LTranslit=fransiac’i
 2	մարկիզ	մարկիզ	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	8	nsubj	_	Translit=markiz|LTranslit=markiz
-3	դե	դե	X	_	Foreign=Yes	2	flat:name	_	Translit=de|LTranslit=de|Lang=
+3	դե	դե	X	_	Foreign=Yes	2	flat:name	_	Translit=de|LTranslit=de
 4	Սադը	Սադ	PROPN	_	Animacy=Hum|Case=Nom|Definite=Def|NameType=Sur|Number=Sing	3	flat:name	_	Translit=Sadë|LTranslit=Sad
 5	մեկ	մեկ	NUM	_	NumForm=Word|NumType=Card	6	nummod	_	Translit=mek|LTranslit=mek
 6	անգամ	անգամ	ADV	_	_	0	root	_	Translit=angam|LTranslit=angam
@@ -30096,8 +30096,8 @@
 1	Օսկար	Օսկար	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	0	root	_	Translit=Òskar|LTranslit=Òskar
 2	Ուայլդ	Ուայլդ	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Sur|Number=Sing	1	flat:name	_	Translit=OWayld|LTranslit=OWayld|SpaceAfter=No
 3	.	.	PUNCT	_	Foreign=Yes	4	punct	_	Translit=.|LTranslit=.
-4	De	De	X	_	Foreign=Yes	1	list	_	Translit=De|LTranslit=De|Lang=
-5	Profundis	Profundis	X	_	Foreign=Yes	4	flat:name	_	Translit=Profundis|LTranslit=Profundis|Lang=
+4	De	De	X	_	Foreign=Yes	1	list	_	Translit=De|LTranslit=De
+5	Profundis	Profundis	X	_	Foreign=Yes	4	flat:name	_	Translit=Profundis|LTranslit=Profundis
 
 # newpar id = news-007K-002M
 # sent_id = news-007K-002M0DB8
@@ -32241,7 +32241,7 @@
 3	,	,	PUNCT	_	_	7	punct	_	Translit=,|LTranslit=,
 4	որ	որ	SCONJ	_	_	7	mark	_	Translit=or|LTranslit=or
 5	դա	դա	PRON	_	Case=Nom|Deixis=Med|Number=Sing|PronType=Dem	7	nsubj	_	Translit=da|LTranslit=da
-6	տեղի	տեղի	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing|Style=Arch	7	compound:lvc	_	Translit=teġi|LTranslit=teġi|Lang=xcl
+6	տեղի	տեղի	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing|Style=Arch	7	compound:lvc	_	Translit=teġi|LTranslit=teġi
 7	կունենա	ունենալ	VERB	_	Aspect=Prosp|Mood=Cnd|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	1	acl	_	Translit=kownena|LTranslit=ownenal
 8	արագ	արագ	ADV	_	Degree=Pos	7	advmod	_	Translit=arag|LTranslit=arag|SpaceAfter=No
 9	,	,	PUNCT	_	_	14	punct	_	Translit=,|LTranslit=,

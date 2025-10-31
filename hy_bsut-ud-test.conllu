@@ -2484,7 +2484,7 @@
 17	գրկեցին	գրկել	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	12	conj	_	Translit=grkec’in|LTranslit=grkel
 18	նրան	նա	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	17	obj	_	Translit=nran|LTranslit=na|SpaceAfter=No
 19	,	,	PUNCT	_	_	21	punct	_	Translit=,|LTranslit=,
-20	տեղի	տեղի	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing|Style=Arch	21	compound:lvc	_	Translit=teġi|LTranslit=teġi|Lang=xcl
+20	տեղի	տեղի	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing|Style=Arch	21	compound:lvc	_	Translit=teġi|LTranslit=teġi
 21	ունեցավ	ունենալ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=ownec’av|LTranslit=ownenal
 22	հույզերի	հույզ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Plur	24	nmod:poss	_	Translit=howyzeri|LTranslit=howyz
 23	նոր	նոր	ADJ	_	Degree=Pos	24	amod	_	Translit=nor|LTranslit=nor
@@ -2997,7 +2997,7 @@
 2	հսկայական	հսկայական	ADJ	_	_	3	amod	_	Translit=hskayakan|LTranslit=hskayakan
 3	էկրանի	էկրան	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	7	obl	_	Translit=ēkrani|LTranslit=ēkran
 4	վրա	վրա	ADP	_	AdpType=Post	3	case	_	Translit=vra|LTranslit=vra
-5	տեղի	տեղի	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing|Style=Arch	7	compound:lvc	_	Translit=teġi|LTranslit=teġi|Lang=xcl
+5	տեղի	տեղի	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing|Style=Arch	7	compound:lvc	_	Translit=teġi|LTranslit=teġi
 6	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	aux	_	Translit=ē|LTranslit=em
 7	ունենում	ունենալ	VERB	_	Aspect=Imp|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=ownenowm|LTranslit=ownenal
 8	«	«	PUNCT	_	_	9	punct	_	Translit=«|LTranslit=«|SpaceAfter=No
@@ -10552,7 +10552,7 @@
 4	Իշխան	Իշխան	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	9	obl	_	Translit=Išxan|LTranslit=Išxan
 5	Սաղաթելյանի	Սաղաթելյան	PROPN	_	Animacy=Hum|Case=Dat|Definite=Ind|NameType=Sur|Number=Sing	4	flat:name	_	Translit=Saġat’elyani|LTranslit=Saġat’elyan
 6	համար	համար	ADP	_	AdpType=Post	4	case	_	Translit=hamar|LTranslit=hamar
-7	տեղի	տեղի	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing|Style=Arch	9	nsubj	_	Translit=teġi|LTranslit=teġi|Lang=xcl
+7	տեղի	տեղի	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing|Style=Arch	9	nsubj	_	Translit=teġi|LTranslit=teġi
 8	ունեցողը	ունեցող	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	7	compound	_	Translit=ownec’oġë|LTranslit=ownec’oġ
 9	հուսադրող	հուսադրել	VERB	_	Aspect=Dur|Polarity=Pos|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=howsadroġ|LTranslit=howsadrel
 10	չէ	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	9	aux	_	Translit=čē|LTranslit=em|SpaceAfter=No
@@ -11048,7 +11048,7 @@
 29	բարձրաձայնելով	բարձրաձայնել	VERB	_	Case=Ins|Definite=Ind|Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	27	advcl	_	Translit=barjrajaynelov|LTranslit=barjrajaynel
 30	իրենց	իրենք	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Emp|Reflex=Yes	33	obl	_	Translit=irenc’|LTranslit=irenk’
 31	շուրջ	շուրջ	ADP	_	AdpType=Post	30	case	_	Translit=šowrǰ|LTranslit=šowrǰ
-32	տեղի	տեղի	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing|Style=Arch	33	compound:lvc	_	Translit=teġi|LTranslit=teġi|Lang=xcl
+32	տեղի	տեղի	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing|Style=Arch	33	compound:lvc	_	Translit=teġi|LTranslit=teġi
 33	ունեցող	ունենալ	VERB	_	Aspect=Dur|Polarity=Pos|Subcat=Tran|VerbForm=Part|Voice=Act	35	acl	_	Translit=ownec’oġ|LTranslit=ownenal
 34	ամեն	ամեն	DET	_	PronType=Tot	35	det	_	Translit=amen|LTranslit=amen
 35	լավ	լավ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Coll	29	obl	_	Translit=lav|LTranslit=lav
@@ -12809,7 +12809,7 @@
 19	գոտի	գոտի	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	15	nmod:npmod	_	Translit=goti|LTranslit=goti|SpaceAfter=No
 20	»	»	PUNCT	_	_	19	punct	_	Translit=»|LTranslit=»|SpaceAfter=No
 21	,	,	PUNCT	_	_	24	punct	_	Translit=,|LTranslit=,
-22	տեղի	տեղի	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing|Style=Arch	24	compound:lvc	_	Translit=teġi|LTranslit=teġi|Lang=xcl
+22	տեղի	տեղի	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing|Style=Arch	24	compound:lvc	_	Translit=teġi|LTranslit=teġi
 23	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	24	aux	_	Translit=ē|LTranslit=em
 24	ունեցել	ունենալ	VERB	_	Aspect=Perf|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=ownec’el|LTranslit=ownenal
 25	այն	այն	DET	_	Deixis=Remt|PronType=Dem	26	det	_	Translit=ayn|LTranslit=ayn

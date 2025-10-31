@@ -5761,7 +5761,7 @@
 3	միկրոքննություն	միկրոքննություն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	0	root	_	Translit=mikrok’nnowt’yown|LTranslit=mikrok’nnowt’yown|SpaceAfter=No
 4	,	,	PUNCT	_	_	8	punct	_	Translit=,|LTranslit=,
 5	որը	որ	PRON	_	Case=Nom|Definite=Def|Number=Sing|PronType=Rel	8	nsubj	_	Translit=orë|LTranslit=or
-6	տեղի	տեղի	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing|Style=Arch	8	compound:lvc	_	Translit=teġi|LTranslit=teġi|Lang=xcl
+6	տեղի	տեղի	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing|Style=Arch	8	compound:lvc	_	Translit=teġi|LTranslit=teġi
 7	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	8	aux	_	Translit=ē|LTranslit=em
 8	ունենում	ունենալ	VERB	_	Aspect=Imp|Subcat=Tran|VerbForm=Part|Voice=Act	3	acl:relcl	_	Translit=ownenowm|LTranslit=ownenal
 9	հենց	հենց	ADV	_	ExtPos=ADV	8	advmod	_	Translit=henc’|LTranslit=henc’
@@ -10047,7 +10047,7 @@
 23	,	,	PUNCT	_	_	28	punct	_	Translit=,|LTranslit=,
 24	որում	որ	PRON	_	Case=Loc|Definite=Ind|Number=Sing|PronType=Rel	28	obl	_	Translit=orowm|LTranslit=or
 25	դա	դա	PRON	_	Case=Nom|Deixis=Med|Number=Sing|PronType=Dem	28	nsubj	_	Translit=da|LTranslit=da
-26	տեղի	տեղի	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing|Style=Arch	28	compound:lvc	_	Translit=teġi|LTranslit=teġi|Lang=xcl
+26	տեղի	տեղի	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing|Style=Arch	28	compound:lvc	_	Translit=teġi|LTranslit=teġi
 27	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	28	aux	_	Translit=ē|LTranslit=em
 28	ունեցել	ունենալ	VERB	_	Aspect=Perf|Subcat=Tran|VerbForm=Part|Voice=Act	22	acl:relcl	_	Translit=ownec’el|LTranslit=ownenal|SpaceAfter=No
 29	,	,	PUNCT	_	_	30	punct	_	Translit=,|LTranslit=,
