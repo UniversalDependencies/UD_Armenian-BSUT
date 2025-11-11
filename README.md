@@ -36,12 +36,23 @@ UD_Armenian-BSUT data conforms to [CoNLL-U](http://universaldependencies.org/for
 
 
 # Changelog
+
+* 2025-11-15 v2.17
+   * Added new texts: 42K→47K.
+   * Specified `fixed` and introduced `ExtPos`.
+   * Introduced `NameType=Pat` for foreign (mostly Slavic or à la Slavic manner) patronymics.
+   * `det:poss`, `nmod:poss` improved.
+   * Fixed various individual annotation errors and inconsistencies.
+
 * 2023-11-15 v2.13
   * Fixed various individual annotation errors and inconsistencies.
+
 * 2022-11-15 v2.11
-  * Fixed various individual annotation errors and inconsistencies, added new texts: 42K→47K.
+  * Fixed various individual annotation errors and inconsistencies.
+
 * 2022-05-15 v2.10
   * Fixed various individual annotation errors and inconsistencies, added new texts: 3K→42K.
+
 * 2021-11-15 v2.9
   * Initial release in Universal Dependencies.
 
@@ -50,6 +61,7 @@ UD_Armenian-BSUT data conforms to [CoNLL-U](http://universaldependencies.org/for
 Data available since: UD v2.9
 License: CC BY-SA 4.0
 Includes text: yes
+Parallel: no
 Genre: blog fiction government legal news nonfiction web wiki
 Lemmas: manual native
 UPOS: manual native
@@ -58,7 +70,7 @@ Features: manual native
 Relations: manual native
 Contributors: Yavrumyan, Marat M.
 Contributing: here
-Contact: marat.yavrumyan@plus.ac.at
+Contact: marat.yavrumyan@ysu.am
 ===============================================================================
 Documentation contributors: Yavrumyan, Marat M.; Danielyan, Anna S.
 https://github.com/armtreebank
